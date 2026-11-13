@@ -1,0 +1,1128 @@
+Total paragraphs: 278
+Total tables: 43
+
+P[0][align=CENTER (1)][style=Normal]: CampusFlow: Smart Service & Issue Management System
+   RUNS: 'CampusFlow: Smart Service & Issue Management System'(font=None, size=18.0, bold=True, color=C00000)
+
+P[1][align=CENTER (1)][style=Normal]: A
+   RUNS: 'A'(font=None, size=12.0, bold=None, color=None)
+
+P[2][align=CENTER (1)][style=Normal]: Skill Oriented Course Web Application report submitted in the partial fulfillment of the requirements for the award of the Degree of
+   RUNS: 'Skill Oriented Course Web Application report submitted in the partial fulfillment of the requirements for the award of the Degree of'(font=None, size=11.0, bold=True, color=None)
+
+P[3][align=CENTER (1)][style=Normal]: BACHELOR OF TECHNOLOGY
+   RUNS: 'BACHELOR OF TECHNOLOGY'(font=None, size=14.0, bold=True, color=4B0082)
+
+P[4][align=CENTER (1)][style=Normal]: In
+   RUNS: 'In'(font=None, size=12.0, bold=True, color=None)
+
+P[5][align=CENTER (1)][style=Normal]: COMPUTER SCIENCE AND ENGINEERING
+   RUNS: 'COMPUTER SCIENCE AND ENGINEERING'(font=None, size=13.0, bold=True, color=008000)
+
+P[6][align=CENTER (1)][style=Normal]: By
+   RUNS: 'By'(font=None, size=12.0, bold=True, color=None)
+
+P[7][align=CENTER (1)][style=Normal]: Under the esteemed guidance of
+   RUNS: 'Under the esteemed guidance of'(font=None, size=12.0, bold=True, color=None)
+
+P[8][align=CENTER (1)][style=Normal]: Mr. N. SrinivasaRao
+   RUNS: 'Mr. N. SrinivasaRao'(font=None, size=12.5, bold=True, color=C00000)
+
+P[9][align=CENTER (1)][style=Normal]: Sr. Assistant Professor
+   RUNS: 'Sr. Assistant Professor'(font=None, size=11.0, bold=True, color=None)
+
+P[10][align=CENTER (1)][style=Normal]: 
+   RUNS: 
+
+P[11][align=CENTER (1)][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[12][align=CENTER (1)][style=Normal]: DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+   RUNS: 'DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING'(font=None, size=12.5, bold=True, color=C00000)
+
+P[13][align=CENTER (1)][style=Normal]: LAKIREDDY BALIREDDY COLLEGE OF ENGINEERING (AUTONOMOUS)
+   RUNS: 'LAKIREDDY BALIREDDY COLLEGE OF ENGINEERING (AUTONOMOUS)'(font=None, size=12.0, bold=True, color=0070C0)
+
+P[14][align=CENTER (1)][style=Normal]: Accredited by NAAC with ‘A’ Grade & NBA (Under Tier - I),
+   RUNS: 'Accredited by NAAC with ‘A’ Grade & NBA (Under Tier - I),'(font=None, size=9.5, bold=True, color=None)
+
+P[15][align=CENTER (1)][style=Normal]: An ISO 21001:2018, 14001:2015, 50001:2018 Certified Institution
+   RUNS: 'An ISO 21001:2018, 14001:2015, 50001:2018 Certified Institution'(font=None, size=9.5, bold=True, color=None)
+
+P[16][align=CENTER (1)][style=Normal]: Approved by AICTE, New Delhi and Affiliated to JNTUK, Kakinada
+   RUNS: 'Approved by AICTE, New Delhi and Affiliated to JNTUK, Kakinada'(font=None, size=9.5, bold=True, color=None)
+
+P[17][align=CENTER (1)][style=Normal]: L.B. REDDY NAGAR, MYLAVARAM, NTR DIST., A.P. - 521230.
+   RUNS: 'L.B. REDDY NAGAR, MYLAVARAM, NTR DIST., A.P. - 521230.'(font=None, size=9.5, bold=True, color=None)
+
+P[18][align=CENTER (1)][style=Normal]: 2024-2028
+   RUNS: '2024-2028'(font=None, size=12.0, bold=True, color=C00000)
+
+P[19][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[20][align=CENTER (1)][style=Normal]: LAKIREDDY BALI REDDY COLLEGE OF ENGINEERING
+(AUTONOMOUS)
+   RUNS: 'LAKIREDDY BALI REDDY COLLEGE OF ENGINEERING
+(AUTONOMOUS)'(font=None, size=13.0, bold=True, color=C00000)
+
+P[21][align=CENTER (1)][style=Normal]: Accredited by NAAC with ‘A’ Grade & NBA (Under Tier - I),
+   RUNS: 'Accredited by NAAC with ‘A’ Grade & NBA (Under Tier - I),'(font=None, size=9.0, bold=True, color=None)
+
+P[22][align=CENTER (1)][style=Normal]: An ISO 21001:2018, 14001:2015, 50001:2018 Certified Institution
+   RUNS: 'An ISO 21001:2018, 14001:2015, 50001:2018 Certified Institution'(font=None, size=9.0, bold=True, color=None)
+
+P[23][align=CENTER (1)][style=Normal]: Approved by AICTE, New Delhi and Affiliated to JNTUK, Kakinada
+   RUNS: 'Approved by AICTE, New Delhi and Affiliated to JNTUK, Kakinada'(font=None, size=9.0, bold=True, color=None)
+
+P[24][align=CENTER (1)][style=Normal]: L.B. REDDY NAGAR, MYLAVARAM, NTR DIST., A.P. - 521230.
+   RUNS: 'L.B. REDDY NAGAR, MYLAVARAM, NTR DIST., A.P. - 521230.'(font=None, size=9.0, bold=True, color=None)
+
+P[25][align=CENTER (1)][style=Normal]: Department of
+COMPUTER SCIENCE AND ENGINEERING
+   RUNS: 'Department of
+COMPUTER SCIENCE AND ENGINEERING'(font=None, size=12.0, bold=True, color=0070C0)
+
+P[26][align=CENTER (1)][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[27][align=CENTER (1)][style=Normal]: CERTIFICATE
+   RUNS: 'CERTIFICATE'(font=None, size=15.0, bold=True, color=None)
+
+P[28][align=None][style=Normal]: This is to certify that the Skill Oriented Course Web Application entitled “CampusFlow: Smart Service & Issue Management System” is being submitted by
+   RUNS: 'This is to certify that the Skill Oriented Course Web Application entitled '(font=None, size=None, bold=None, color=None) | '“CampusFlow: Smart Service & Issue Management System”'(font=None, size=None, bold=True, color=C00000) | ' is being submitted by'(font=None, size=None, bold=None, color=None)
+
+P[29][align=None][style=Normal]: in partial fulfillment of the requirements for the award of degree of B.Tech in Computer Science and Engineering from Jawaharlal Nehru Technological University Kakinada is a record of Bonafide work carried out by him/her at Lakireddy Bali Reddy College of Engineering (Autonomous).
+   RUNS: 'in partial fulfillment of the requirements for the award of degree of '(font=None, size=None, bold=None, color=None) | 'B.Tech in Computer Science and Engineering'(font=None, size=None, bold=True, color=008000) | ' from '(font=None, size=None, bold=None, color=None) | 'Jawaharlal Nehru Technological University Kakinada'(font=None, size=None, bold=True, color=None) | ' is a record of Bonafide work carried out by him/her at '(font=None, size=None, bold=None, color=None) | 'Lakireddy Bali Reddy College of Engineering (Autonomous)'(font=None, size=None, bold=True, color=C00000) | '.'(font=None, size=None, bold=None, color=None)
+
+P[30][align=None][style=Normal]: The results embodied in this Skill Oriented Course Web Application report have not been submitted to any other university or institute for the award of any degree or diploma.
+   RUNS: 'The results embodied in this Skill Oriented Course Web Application report have not been submitted to any other university or institute for the award of any degree or diploma.'(font=None, size=None, bold=None, color=None)
+
+P[31][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[32][align=CENTER (1)][style=Normal]: ACKNOWLEDGEMENT
+   RUNS: 'ACKNOWLEDGEMENT'(font=None, size=15.0, bold=True, color=None)
+
+P[33][align=None][style=Normal]: I would like to thank Mr. N. SrinivasaRao, Sr. Assistant Professor, CSE department for the encouragement and support in carrying out this Skill Oriented Course Web Application.
+   RUNS: 'I would like to thank Mr. N. SrinivasaRao, Sr. Assistant Professor, CSE department for the encouragement and support in carrying out this Skill Oriented Course Web Application.'(font=None, size=None, bold=None, color=None)
+
+P[34][align=None][style=Normal]: I also take the privilege to record my thanks to Dr. S. Nagarjuna Reddy, Professor, Head of the Department of CSE whose encouragement, cooperation, and valuable support crown my success.
+   RUNS: 'I also take the privilege to record my thanks to Dr. S. Nagarjuna Reddy, Professor, Head of the Department of CSE whose encouragement, cooperation, and valuable support crown my success.'(font=None, size=None, bold=None, color=None)
+
+P[35][align=None][style=Normal]: I express my thanks to the support given by management in completing my Web Application. I also express my sincere gratitude & deep sense of respect to Dr. K. Appa Rao, Principal for making us available all the required assistance and his support and inspiration to carry out this Skill Oriented Course Web Application in the Institute.
+   RUNS: 'I express my thanks to the support given by management in completing my Web Application. I also express my sincere gratitude & deep sense of respect to Dr. K. Appa Rao, Principal for making us available all the required assistance and his support and inspiration to carry out this Skill Oriented Course Web Application in the Institute.'(font=None, size=None, bold=None, color=None)
+
+P[36][align=None][style=Normal]: I am thankful to the teaching and non-teaching staff of CSE department for their direct as well as indirect help in my Skill Oriented Course Web Application.
+   RUNS: 'I am thankful to the teaching and non-teaching staff of CSE department for their direct as well as indirect help in my Skill Oriented Course Web Application.'(font=None, size=None, bold=None, color=None)
+
+P[37][align=None][style=Normal]: I am elated to avail myself to this opportunity to express my deep sense of gratitude to my parents.
+   RUNS: 'I am elated to avail myself to this opportunity to express my deep sense of gratitude to my parents.'(font=None, size=None, bold=None, color=None)
+
+P[38][align=RIGHT (2)][style=Normal]: Nimmala Venkata Umesh Chandra   24761A05AD
+   RUNS: 'Nimmala Venkata Umesh Chandra   24761A05AD'(font=None, size=None, bold=True, color=None)
+
+P[39][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[40][align=CENTER (1)][style=Normal]: DECLARATION
+   RUNS: 'DECLARATION'(font=None, size=15.0, bold=True, color=None)
+
+P[41][align=None][style=Normal]: I am here to declare that the project entitled “CampusFlow: Smart Service & Issue Management System” work done by me. I certify that the work contained in the report is original and has been done by me under the guidance of my supervisor. The work has not been submitted to any other institute in preparing for any degree or diploma. I have followed the guidelines provided by the institute for preparing the report. I have confirmed the norms and guidelines given in the Ethical Code of Conduct of the Institute. Whenever I have used materials (data, theoretical analysis, figures and text) from other sources, I have given due credit to them by citing them in the text of the report and giving their details in the references. Further, I have taken permission from the copyright owner of the sources, whenever necessary.
+   RUNS: 'I am here to declare that the project entitled “CampusFlow: Smart Service & Issue Management System” work done by me. I certify that the work contained in the report is original and has been done by me under the guidance of my supervisor. The work has not been submitted to any other institute in preparing for any degree or diploma. I have followed the guidelines provided by the institute for preparing the report. I have confirmed the norms and guidelines given in the Ethical Code of Conduct of the Institute. Whenever I have used materials (data, theoretical analysis, figures and text) from other sources, I have given due credit to them by citing them in the text of the report and giving their details in the references. Further, I have taken permission from the copyright owner of the sources, whenever necessary.'(font=None, size=None, bold=None, color=None)
+
+P[42][align=RIGHT (2)][style=Normal]: Signature of the student
+Nimmala Venkata Umesh Chandra   24761A05AD
+   RUNS: 'Signature of the student
+'(font=None, size=None, bold=True, color=None) | 'Nimmala Venkata Umesh Chandra   24761A05AD'(font=None, size=None, bold=True, color=None)
+
+P[43][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[44][align=CENTER (1)][style=Normal]: ABSTRACT
+   RUNS: 'ABSTRACT'(font=None, size=15.0, bold=True, color=None)
+
+P[45][align=None][style=Normal]: In modern university campuses, managing physical infrastructure issues, electrical faults, network disruptions, plumbing breakdowns, and laboratory equipment repairs is traditionally handled through informal word of mouth, manual register logbooks, or unstructured telephone complaints. These outdated approaches lead to lost requests, lack of status transparency, unaccountable turnaround times, and severe dissatisfaction among students and staff. CampusFlow: Smart Service & Issue Management System is a database-driven enterprise web application designed to centralize and automate college service requests, staff dispatch, workflow progress tracking, and post-resolution feedback on a unified platform. It is built strictly using HTML5, CSS3, and Vanilla JavaScript for the responsive user interface, JavaServer Pages (JSP 2.3) and Java Servlets running on Apache Tomcat 9 for server-side business logic, and JDBC connecting directly to an Oracle 10g Express Edition database.
+   RUNS: 'In modern university campuses, managing physical infrastructure issues, electrical faults, network disruptions, plumbing breakdowns, and laboratory equipment repairs is traditionally handled through informal word of mouth, manual register logbooks, or unstructured telephone complaints. These outdated approaches lead to lost requests, lack of status transparency, unaccountable turnaround times, and severe dissatisfaction among students and staff. CampusFlow: Smart Service & Issue Management System is a database-driven enterprise web application designed to centralize and automate college service requests, staff dispatch, workflow progress tracking, and post-resolution feedback on a unified platform. It is built strictly using HTML5, CSS3, and Vanilla JavaScript for the responsive user interface, JavaServer Pages (JSP 2.3) and Java Servlets running on Apache Tomcat 9 for server-side business logic, and JDBC connecting directly to an Oracle 10g Express Edition database.'(font=None, size=None, bold=None, color=None)
+
+P[46][align=None][style=Normal]: The system provides three distinct, role-based workflows for Students, Staff, and Administrators. New students register through a server-validated registration module. Passwords are never stored in plain text; they are secured using the JDK-standard PBKDF2WithHmacSHA256 key derivation algorithm with 65,536 iterations and unique 16-byte random salts. Authenticated users maintain their session in an HTTP session cookie with complete session invalidation and renewal at login to prevent session fixation. Students submit structured service requests with automatic generation of unique tracking identifiers (e.g., CF-2026-xxxxx) and a dynamic rule-based priority engine that evaluates urgency, impact, and campus location. Students can view personal requests, filter by category and status, edit eligible requests before assignment, cancel pending issues, inspect an immutable chronological audit timeline, and submit 5-star ratings with narrative feedback after resolution.
+   RUNS: 'The system provides three distinct, role-based workflows for Students, Staff, and Administrators. New students register through a server-validated registration module. Passwords are never stored in plain text; they are secured using the JDK-standard PBKDF2WithHmacSHA256 key derivation algorithm with 65,536 iterations and unique 16-byte random salts. Authenticated users maintain their session in an HTTP session cookie with complete session invalidation and renewal at login to prevent session fixation. Students submit structured service requests with automatic generation of unique tracking identifiers (e.g., CF-2026-xxxxx) and a dynamic rule-based priority engine that evaluates urgency, impact, and campus location. Students can view personal requests, filter by category and status, edit eligible requests before assignment, cancel pending issues, inspect an immutable chronological audit timeline, and submit 5-star ratings with narrative feedback after resolution.'(font=None, size=None, bold=None, color=None)
+
+P[47][align=None][style=Normal]: Assigned staff members receive a dedicated task queue displaying workload metrics, transition ticket statuses through permitted states (In Progress, Resolved) with mandatory resolution remarks, and trigger automated in-app notifications to students. Administrators possess central operational governance: searching and filtering all campus requests, dispatching tickets to departments and staff, executing priority overrides with recorded justifications, managing department structures, and governing user account activation states.
+   RUNS: 'Assigned staff members receive a dedicated task queue displaying workload metrics, transition ticket statuses through permitted states (In Progress, Resolved) with mandatory resolution remarks, and trigger automated in-app notifications to students. Administrators possess central operational governance: searching and filtering all campus requests, dispatching tickets to departments and staff, executing priority overrides with recorded justifications, managing department structures, and governing user account activation states.'(font=None, size=None, bold=None, color=None)
+
+P[48][align=None][style=Normal]: Security and data durability were engineered from inception: 100% of database interactions execute via JDBC PreparedStatement to eliminate SQL injection; synchronizer CSRF tokens defend state-altering POST requests; user-supplied text is sanitized with HTML entity escaping; and strict foreign key constraints preserve relational integrity in Oracle. The project demonstrates an authentic, full-stack Java web application adhering strictly to classical MVC architecture, verified through extensive testing and database persistence.
+   RUNS: 'Security and data durability were engineered from inception: 100% of database interactions execute via JDBC PreparedStatement to eliminate SQL injection; synchronizer CSRF tokens defend state-altering POST requests; user-supplied text is sanitized with HTML entity escaping; and strict foreign key constraints preserve relational integrity in Oracle. The project demonstrates an authentic, full-stack Java web application adhering strictly to classical MVC architecture, verified through extensive testing and database persistence.'(font=None, size=None, bold=None, color=None)
+
+P[49][align=None][style=Normal]: Keywords: JSP, Servlets, JDBC, Oracle 10g XE, Apache Tomcat, PBKDF2, RBAC, Issue Management, CampusFlow.
+   RUNS: 'Keywords: JSP, Servlets, JDBC, Oracle 10g XE, Apache Tomcat, PBKDF2, RBAC, Issue Management, CampusFlow.'(font=None, size=None, bold=None, color=None)
+
+P[50][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[51][align=CENTER (1)][style=Normal]: LIST OF CONTENTS
+   RUNS: 'LIST OF CONTENTS'(font=None, size=15.0, bold=True, color=None)
+
+P[52][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[53][align=CENTER (1)][style=Normal]: LIST OF ABBREVIATIONS
+   RUNS: 'LIST OF ABBREVIATIONS'(font=None, size=15.0, bold=True, color=None)
+
+P[54][align=None][style=Normal]: 1.  HTML – Hypertext Markup Language
+   RUNS: '1.  HTML – Hypertext Markup Language'(font=None, size=None, bold=None, color=None)
+
+P[55][align=None][style=Normal]: 2.  CSS – Cascading Style Sheets
+   RUNS: '2.  CSS – Cascading Style Sheets'(font=None, size=None, bold=None, color=None)
+
+P[56][align=None][style=Normal]: 3.  JS – JavaScript
+   RUNS: '3.  JS – JavaScript'(font=None, size=None, bold=None, color=None)
+
+P[57][align=None][style=Normal]: 4.  JDBC – Java Database Connectivity
+   RUNS: '4.  JDBC – Java Database Connectivity'(font=None, size=None, bold=None, color=None)
+
+P[58][align=None][style=Normal]: 5.  JSP – JavaServer Pages
+   RUNS: '5.  JSP – JavaServer Pages'(font=None, size=None, bold=None, color=None)
+
+P[59][align=None][style=Normal]: 6.  SQL – Structured Query Language
+   RUNS: '6.  SQL – Structured Query Language'(font=None, size=None, bold=None, color=None)
+
+P[60][align=None][style=Normal]: 7.  DB – Database
+   RUNS: '7.  DB – Database'(font=None, size=None, bold=None, color=None)
+
+P[61][align=None][style=Normal]: 8.  RDBMS – Relational Database Management System
+   RUNS: '8.  RDBMS – Relational Database Management System'(font=None, size=None, bold=None, color=None)
+
+P[62][align=None][style=Normal]: 9.  HTTP – Hypertext Transfer Protocol
+   RUNS: '9.  HTTP – Hypertext Transfer Protocol'(font=None, size=None, bold=None, color=None)
+
+P[63][align=None][style=Normal]: 10. URL – Uniform Resource Locator
+   RUNS: '10. URL – Uniform Resource Locator'(font=None, size=None, bold=None, color=None)
+
+P[64][align=None][style=Normal]: 11. CRUD – Create, Read, Update, Delete
+   RUNS: '11. CRUD – Create, Read, Update, Delete'(font=None, size=None, bold=None, color=None)
+
+P[65][align=None][style=Normal]: 12. IDE – Integrated Development Environment
+   RUNS: '12. IDE – Integrated Development Environment'(font=None, size=None, bold=None, color=None)
+
+P[66][align=None][style=Normal]: 13. JDK – Java Development Kit
+   RUNS: '13. JDK – Java Development Kit'(font=None, size=None, bold=None, color=None)
+
+P[67][align=None][style=Normal]: 14. XE – Express Edition (Oracle Database)
+   RUNS: '14. XE – Express Edition (Oracle Database)'(font=None, size=None, bold=None, color=None)
+
+P[68][align=None][style=Normal]: 15. SID – System Identifier (Oracle)
+   RUNS: '15. SID – System Identifier (Oracle)'(font=None, size=None, bold=None, color=None)
+
+P[69][align=None][style=Normal]: 16. API – Application Programming Interface
+   RUNS: '16. API – Application Programming Interface'(font=None, size=None, bold=None, color=None)
+
+P[70][align=None][style=Normal]: 17. UI – User Interface
+   RUNS: '17. UI – User Interface'(font=None, size=None, bold=None, color=None)
+
+P[71][align=None][style=Normal]: 18. ER – Entity-Relationship
+   RUNS: '18. ER – Entity-Relationship'(font=None, size=None, bold=None, color=None)
+
+P[72][align=None][style=Normal]: 19. PK – Primary Key
+   RUNS: '19. PK – Primary Key'(font=None, size=None, bold=None, color=None)
+
+P[73][align=None][style=Normal]: 20. FK – Foreign Key
+   RUNS: '20. FK – Foreign Key'(font=None, size=None, bold=None, color=None)
+
+P[74][align=None][style=Normal]: 21. WAR – Web Application Archive
+   RUNS: '21. WAR – Web Application Archive'(font=None, size=None, bold=None, color=None)
+
+P[75][align=None][style=Normal]: 22. XSS – Cross-Site Scripting
+   RUNS: '22. XSS – Cross-Site Scripting'(font=None, size=None, bold=None, color=None)
+
+P[76][align=None][style=Normal]: 23. CSRF – Cross-Site Request Forgery
+   RUNS: '23. CSRF – Cross-Site Request Forgery'(font=None, size=None, bold=None, color=None)
+
+P[77][align=None][style=Normal]: 24. RBAC – Role-Based Access Control
+   RUNS: '24. RBAC – Role-Based Access Control'(font=None, size=None, bold=None, color=None)
+
+P[78][align=None][style=Normal]: 25. PBKDF2 – Password-Based Key Derivation Function 2
+   RUNS: '25. PBKDF2 – Password-Based Key Derivation Function 2'(font=None, size=None, bold=None, color=None)
+
+P[79][align=None][style=Normal]: 26. MVC – Model-View-Controller
+   RUNS: '26. MVC – Model-View-Controller'(font=None, size=None, bold=None, color=None)
+
+P[80][align=None][style=Normal]: 27. SOC – Skill Oriented Course
+   RUNS: '27. SOC – Skill Oriented Course'(font=None, size=None, bold=None, color=None)
+
+P[81][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[82][align=CENTER (1)][style=Normal]: 1
+   RUNS: '1'(font=None, size=10.0, bold=None, color=None)
+
+P[83][align=CENTER (1)][style=Normal]: 1. INTRODUCTION
+   RUNS: '1. INTRODUCTION'(font=None, size=15.0, bold=True, color=None)
+
+P[84][align=None][style=Normal]: 1.1 Overview of the Project
+   RUNS: '1.1 Overview of the Project'(font=None, size=13.0, bold=True, color=None)
+
+P[85][align=None][style=Normal]: CampusFlow is a database-driven enterprise web application designed to automate, streamline, and govern college service and issue management across institutional campuses. In a university environment, hundreds of maintenance and operational service requests arise daily—ranging from classroom electrical faults, projector failures, and network switch outages to plumbing leaks, carpentry repairs, and laboratory equipment servicing. CampusFlow empowers students to submit structured service requests from any standard web browser, automatically assigns unique tracking identifiers, determines dynamic issue priority through a multi-factor calculation engine, facilitates staff dispatch, and maintains an immutable audit timeline with post-resolution 5-star student feedback. All information is persistently stored in an Oracle relational database and every page is rendered dynamically through JavaServer Pages (JSP) and Servlets.
+   RUNS: 'CampusFlow is a database-driven enterprise web application designed to automate, streamline, and govern college service and issue management across institutional campuses. In a university environment, hundreds of maintenance and operational service requests arise daily—ranging from classroom electrical faults, projector failures, and network switch outages to plumbing leaks, carpentry repairs, and laboratory equipment servicing. CampusFlow empowers students to submit structured service requests from any standard web browser, automatically assigns unique tracking identifiers, determines dynamic issue priority through a multi-factor calculation engine, facilitates staff dispatch, and maintains an immutable audit timeline with post-resolution 5-star student feedback. All information is persistently stored in an Oracle relational database and every page is rendered dynamically through JavaServer Pages (JSP) and Servlets.'(font=None, size=None, bold=None, color=None)
+
+P[86][align=None][style=Normal]: Problem Statement
+   RUNS: 'Problem Statement'(font=None, size=12.0, bold=True, color=None)
+
+P[87][align=None][style=Normal]: In most engineering colleges and universities, students and staff still depend on physical logbooks, manual phone calls, or verbal complaints to report campus infrastructure problems. This manual approach results in major inefficiencies: maintenance requests are easily misplaced or ignored, students receive zero visibility into ticket status, staff members lack organized priority queues, and administrators possess no consolidated metrics on departmental resolution speeds or recurring faults. A central database-backed online platform that automates ticket submission, rule-based priority scoring, staff assignment, and feedback tracking eliminates these systemic bottlenecks.
+   RUNS: 'In most engineering colleges and universities, students and staff still depend on physical logbooks, manual phone calls, or verbal complaints to report campus infrastructure problems. This manual approach results in major inefficiencies: maintenance requests are easily misplaced or ignored, students receive zero visibility into ticket status, staff members lack organized priority queues, and administrators possess no consolidated metrics on departmental resolution speeds or recurring faults. A central database-backed online platform that automates ticket submission, rule-based priority scoring, staff assignment, and feedback tracking eliminates these systemic bottlenecks.'(font=None, size=None, bold=None, color=None)
+
+P[88][align=None][style=Normal]: Objectives
+   RUNS: 'Objectives'(font=None, size=12.0, bold=True, color=None)
+
+P[89][align=None][style=List Bullet]: To build a multi-page web application with a clean, professional, responsive user interface using pure HTML5, modern CSS3 design variables, and Vanilla JavaScript without external CSS/JS libraries.
+   RUNS: 'To build a multi-page web application with a clean, professional, responsive user interface using pure HTML5, modern CSS3 design variables, and Vanilla JavaScript without external CSS/JS libraries.'(font=None, size=None, bold=None, color=None)
+
+P[90][align=None][style=List Bullet]: To store users, departments, requests, history logs, feedback, and notifications in an Oracle relational database and access them through robust JDBC PreparedStatements.
+   RUNS: 'To store users, departments, requests, history logs, feedback, and notifications in an Oracle relational database and access them through robust JDBC PreparedStatements.'(font=None, size=None, bold=None, color=None)
+
+P[91][align=None][style=List Bullet]: To provide secure student registration and login using PBKDF2WithHmacSHA256 password hashing and enterprise HTTP session management.
+   RUNS: 'To provide secure student registration and login using PBKDF2WithHmacSHA256 password hashing and enterprise HTTP session management.'(font=None, size=None, bold=None, color=None)
+
+P[92][align=None][style=List Bullet]: To enforce strict Role-Based Access Control (RBAC) across three distinct user roles: Student, Staff, and Administrator.
+   RUNS: 'To enforce strict Role-Based Access Control (RBAC) across three distinct user roles: Student, Staff, and Administrator.'(font=None, size=None, bold=None, color=None)
+
+P[93][align=None][style=List Bullet]: To implement an automated rule-based Priority Engine that dynamically evaluates urgency, impact, and campus location weights, auto-escalating hazard keywords to CRITICAL.
+   RUNS: 'To implement an automated rule-based Priority Engine that dynamically evaluates urgency, impact, and campus location weights, auto-escalating hazard keywords to CRITICAL.'(font=None, size=None, bold=None, color=None)
+
+P[94][align=None][style=List Bullet]: To enable an end-to-end workflow state machine (SUBMITTED → ASSIGNED → IN_PROGRESS → RESOLVED → CLOSED/CANCELLED) with immutable audit history and in-app notifications.
+   RUNS: 'To enable an end-to-end workflow state machine (SUBMITTED → ASSIGNED → IN_PROGRESS → RESOLVED → CLOSED/CANCELLED) with immutable audit history and in-app notifications.'(font=None, size=None, bold=None, color=None)
+
+P[95][align=None][style=List Bullet]: To follow good software engineering practices: server-side validation, anti-CSRF token verification, XSS HTML output escaping, and graceful error handling.
+   RUNS: 'To follow good software engineering practices: server-side validation, anti-CSRF token verification, XSS HTML output escaping, and graceful error handling.'(font=None, size=None, bold=None, color=None)
+
+P[96][align=None][style=Normal]: Modules of the Application
+   RUNS: 'Modules of the Application'(font=None, size=12.0, bold=True, color=None)
+
+P[97][align=None][style=Normal]: Existing and Proposed System
+   RUNS: 'Existing and Proposed System'(font=None, size=12.0, bold=True, color=None)
+
+P[98][align=None][style=Normal]: In the existing manual system, a student with a lab equipment or hostel issue must physically locate maintenance supervisors, write in paper registers, and has no proof of submission or turnaround estimate. Work is assigned arbitrarily, leading to delays and lack of accountability. In the proposed CampusFlow system, the student logs into a self-service portal, submits the issue with location and urgency, receives a unique tracking code instantly, and tracks real-time progress. Staff receive an organized queue and must log resolution remarks. Administrators monitor resolution rates and department performance in real time via live charts.
+   RUNS: 'In the existing manual system, a student with a lab equipment or hostel issue must physically locate maintenance supervisors, write in paper registers, and has no proof of submission or turnaround estimate. Work is assigned arbitrarily, leading to delays and lack of accountability. In the proposed CampusFlow system, the student logs into a self-service portal, submits the issue with location and urgency, receives a unique tracking code instantly, and tracks real-time progress. Staff receive an organized queue and must log resolution remarks. Administrators monitor resolution rates and department performance in real time via live charts.'(font=None, size=None, bold=None, color=None)
+
+P[99][align=None][style=Normal]: Scope
+   RUNS: 'Scope'(font=None, size=12.0, bold=True, color=None)
+
+P[100][align=None][style=Normal]: The project encompasses campus-wide issue tracking across academic blocks, laboratories, hostels, electrical power substations, plumbing systems, and IT networks. It covers authentication, role-based dashboards, automated priority scoring, assignment workflows, audit timelines, and feedback. External SMS/WhatsApp gateways and native mobile apps are reserved for future scope.
+   RUNS: 'The project encompasses campus-wide issue tracking across academic blocks, laboratories, hostels, electrical power substations, plumbing systems, and IT networks. It covers authentication, role-based dashboards, automated priority scoring, assignment workflows, audit timelines, and feedback. External SMS/WhatsApp gateways and native mobile apps are reserved for future scope.'(font=None, size=None, bold=None, color=None)
+
+P[101][align=None][style=Normal]: 1.2 Feasibility Study
+   RUNS: '1.2 Feasibility Study'(font=None, size=13.0, bold=True, color=None)
+
+P[102][align=None][style=Normal]: A feasibility study verifies that the project can be completed effectively with the available time, technical tools, and resources. The following dimensions were evaluated.
+   RUNS: 'A feasibility study verifies that the project can be completed effectively with the available time, technical tools, and resources. The following dimensions were evaluated.'(font=None, size=None, bold=None, color=None)
+
+P[103][align=None][style=Normal]: Technical Feasibility
+   RUNS: 'Technical Feasibility'(font=None, size=12.0, bold=True, color=None)
+
+P[104][align=None][style=Normal]: Java, Servlets, JSP, JDBC, Apache Tomcat 9, and Oracle Database 10g Express Edition are mature, reliable, and extensively documented enterprise technologies that operate seamlessly on standard student computer systems. The pure Java Type-4 Oracle Thin Driver requires no client software installation. The project is therefore technically feasible.
+   RUNS: 'Java, Servlets, JSP, JDBC, Apache Tomcat 9, and Oracle Database 10g Express Edition are mature, reliable, and extensively documented enterprise technologies that operate seamlessly on standard student computer systems. The pure Java Type-4 Oracle Thin Driver requires no client software installation. The project is therefore technically feasible.'(font=None, size=None, bold=None, color=None)
+
+P[105][align=None][style=Normal]: 
+   RUNS: 
+
+P[106][align=None][style=Normal]: Economic Feasibility: Every tool utilized is free and open-source or freely distributable: OpenJDK, Eclipse IDE, Apache Tomcat 9, and Oracle 10g Express Edition. No commercial software licenses were required; development and testing utilized existing student hardware.
+   RUNS: 'Economic Feasibility: '(font=None, size=None, bold=True, color=None) | 'Every tool utilized is free and open-source or freely distributable: OpenJDK, Eclipse IDE, Apache Tomcat 9, and Oracle 10g Express Edition. No commercial software licenses were required; development and testing utilized existing student hardware.'(font=None, size=None, bold=None, color=None)
+
+P[107][align=None][style=Normal]: Operational Feasibility: The application features an intuitive, light-themed responsive user interface with familiar form inputs, dynamic priority badges, and explicit status indicators. Clear feedback messages accompany every user action (e.g., 'Request submitted successfully with ID CF-2026-xxxxx'). Zero special operator training is needed.
+   RUNS: 'Operational Feasibility: '(font=None, size=None, bold=True, color=None) | 'The application features an intuitive, light-themed responsive user interface with familiar form inputs, dynamic priority badges, and explicit status indicators. Clear feedback messages accompany every user action (e.g., 'Request submitted successfully with ID CF-2026-xxxxx'). Zero special operator training is needed.'(font=None, size=None, bold=None, color=None)
+
+P[108][align=None][style=Normal]: Schedule Feasibility: Development followed a structured, incremental schedule: schema design, Oracle connection testing, authentication & PBKDF2 hashing, student request module, staff workflow execution, admin triage, security auditing, and automated testing.
+   RUNS: 'Schedule Feasibility: '(font=None, size=None, bold=True, color=None) | 'Development followed a structured, incremental schedule: schema design, Oracle connection testing, authentication & PBKDF2 hashing, student request module, staff workflow execution, admin triage, security auditing, and automated testing.'(font=None, size=None, bold=None, color=None)
+
+P[109][align=None][style=Normal]: Security Feasibility: Common web application vulnerabilities (stolen passwords, SQL injection, XSS, CSRF, and session hijacking) are eliminated through salted PBKDF2 hashing, 100% PreparedStatement query parameterization, synchronizer CSRF tokens, and session invalidation at logout.
+   RUNS: 'Security Feasibility: '(font=None, size=None, bold=True, color=None) | 'Common web application vulnerabilities (stolen passwords, SQL injection, XSS, CSRF, and session hijacking) are eliminated through salted PBKDF2 hashing, 100% PreparedStatement query parameterization, synchronizer CSRF tokens, and session invalidation at logout.'(font=None, size=None, bold=None, color=None)
+
+P[110][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[111][align=CENTER (1)][style=Normal]: 4
+   RUNS: '4'(font=None, size=10.0, bold=None, color=None)
+
+P[112][align=CENTER (1)][style=Normal]: 2. TECHNOLOGIES USED
+   RUNS: '2. TECHNOLOGIES USED'(font=None, size=15.0, bold=True, color=None)
+
+P[113][align=None][style=Normal]: 2.1 HTML, CSS & JavaScript
+   RUNS: '2.1 HTML, CSS & JavaScript'(font=None, size=13.0, bold=True, color=None)
+
+P[114][align=None][style=Normal]: HTML5 defines the structural foundation of every view in CampusFlow. Each page incorporates standard semantic elements: a consistent navigation bar, a collapsible sidebar, a main content container, and a footer. Web forms capture request details, priority selections, login credentials, and review ratings. Form inputs utilize standardized name attributes that map directly to servlet parameter retrieval calls via request.getParameter().
+   RUNS: 'HTML5 defines the structural foundation of every view in CampusFlow. Each page incorporates standard semantic elements: a consistent navigation bar, a collapsible sidebar, a main content container, and a footer. Web forms capture request details, priority selections, login credentials, and review ratings. Form inputs utilize standardized name attributes that map directly to servlet parameter retrieval calls via request.getParameter().'(font=None, size=None, bold=None, color=None)
+
+P[115][align=None][style=Normal]: CSS3 provides a modern, light-themed enterprise design system. Visual design tokens are centralized as CSS custom properties on :root (e.g., --primary-600, --primary-700, --neutral-800, --success, --warning, --danger) ensuring strict visual consistency across all 27 JSP templates. Flexbox and CSS Grid organize multi-column summary cards, data tables, and modal dialogs. Responsive media queries adjust layouts gracefully across desktop monitors, tablets, and mobile smartphones without external frameworks like Bootstrap.
+   RUNS: 'CSS3 provides a modern, light-themed enterprise design system. Visual design tokens are centralized as CSS custom properties on :root (e.g., --primary-600, --primary-700, --neutral-800, --success, --warning, --danger) ensuring strict visual consistency across all 27 JSP templates. Flexbox and CSS Grid organize multi-column summary cards, data tables, and modal dialogs. Responsive media queries adjust layouts gracefully across desktop monitors, tablets, and mobile smartphones without external frameworks like Bootstrap.'(font=None, size=None, bold=None, color=None)
+
+P[116][align=None][style=Normal]: Vanilla JavaScript (ES6+) delivers responsive client-side interactivity without external libraries. Features include a dynamic Priority Score Preview on the request creation form that updates the badge color as urgency and impact change, asynchronous AJAX loading of department staff in administrative dropdowns, accessible modal window controllers, and native SVG chart rendering.
+   RUNS: 'Vanilla JavaScript (ES6+) delivers responsive client-side interactivity without external libraries. Features include a dynamic Priority Score Preview on the request creation form that updates the badge color as urgency and impact change, asynchronous AJAX loading of department staff in administrative dropdowns, accessible modal window controllers, and native SVG chart rendering.'(font=None, size=None, bold=None, color=None)
+
+P[117][align=None][style=Normal]: 2.2 JDBC (Oracle)
+   RUNS: '2.2 JDBC (Oracle)'(font=None, size=13.0, bold=True, color=None)
+
+P[118][align=None][style=Normal]: Java Database Connectivity (JDBC) is the core Java API for establishing database connections and executing SQL operations. CampusFlow utilizes the Oracle Type-4 Thin Driver (ojdbc14.jar), which communicates directly with Oracle's TNS listener over TCP/IP without requiring Oracle client software on the application server.
+   RUNS: 'Java Database Connectivity (JDBC) is the core Java API for establishing database connections and executing SQL operations. CampusFlow utilizes the Oracle Type-4 Thin Driver (ojdbc14.jar), which communicates directly with Oracle's TNS listener over TCP/IP without requiring Oracle client software on the application server.'(font=None, size=None, bold=None, color=None)
+
+P[119][align=None][style=Normal]: Standard Steps Followed in Every Database Access:
+   RUNS: 'Standard Steps Followed in Every Database Access:'(font=None, size=None, bold=None, color=None)
+
+P[120][align=None][style=List Bullet]: Load the Oracle JDBC Driver class: Class.forName("oracle.jdbc.driver.OracleDriver").
+   RUNS: 'Load the Oracle JDBC Driver class: Class.forName("oracle.jdbc.driver.OracleDriver").'(font=None, size=None, bold=None, color=None)
+
+P[121][align=None][style=List Bullet]: Open a database connection via DriverManager.getConnection(url, user, password) targeting jdbc:oracle:thin:@localhost:1521:xe.
+   RUNS: 'Open a database connection via DriverManager.getConnection(url, user, password) targeting jdbc:oracle:thin:@localhost:1521:xe.'(font=None, size=None, bold=None, color=None)
+
+P[122][align=None][style=List Bullet]: Construct pre-compiled SQL queries with ? parameter placeholders using con.prepareStatement(sql).
+   RUNS: 'Construct pre-compiled SQL queries with ? parameter placeholders using con.prepareStatement(sql).'(font=None, size=None, bold=None, color=None)
+
+P[123][align=None][style=List Bullet]: Bind strongly-typed input values using setString(), setInt(), setTimestamp() to prevent SQL injection.
+   RUNS: 'Bind strongly-typed input values using setString(), setInt(), setTimestamp() to prevent SQL injection.'(font=None, size=None, bold=None, color=None)
+
+P[124][align=None][style=List Bullet]: Execute query: executeQuery() for SELECT statements (returning a ResultSet) or executeUpdate() for INSERT, UPDATE, DELETE.
+   RUNS: 'Execute query: executeQuery() for SELECT statements (returning a ResultSet) or executeUpdate() for INSERT, UPDATE, DELETE.'(font=None, size=None, bold=None, color=None)
+
+P[125][align=None][style=List Bullet]: Iterate result rows via while (rs.next()) { ... } and map database records into JavaBean models.
+   RUNS: 'Iterate result rows via while (rs.next()) { ... } and map database records into JavaBean models.'(font=None, size=None, bold=None, color=None)
+
+P[126][align=None][style=List Bullet]: Cleanly close ResultSet, PreparedStatement, and Connection in finally blocks or try-with-resources.
+   RUNS: 'Cleanly close ResultSet, PreparedStatement, and Connection in finally blocks or try-with-resources.'(font=None, size=None, bold=None, color=None)
+
+P[127][align=None][style=Normal]: 
+   RUNS: 
+
+P[128][align=None][style=Normal]: Oracle 10g Express Edition Specifics:
+   RUNS: 'Oracle 10g Express Edition Specifics:'(font=None, size=12.0, bold=True, color=None)
+
+P[129][align=None][style=List Bullet]: System Identifier (SID): Identified by 'xe', connecting via URL jdbc:oracle:thin:@localhost:1521:xe.
+   RUNS: 'System Identifier (SID): Identified by 'xe', connecting via URL jdbc:oracle:thin:@localhost:1521:xe.'(font=None, size=None, bold=None, color=None)
+
+P[130][align=None][style=List Bullet]: Synthetic Primary Keys: Because Oracle 10g lacks identity columns, synthetic primary keys are generated using Oracle Sequences (e.g. SEQ_USERS.NEXTVAL, SEQ_REQUESTS.NEXTVAL).
+   RUNS: 'Synthetic Primary Keys: Because Oracle 10g lacks identity columns, synthetic primary keys are generated using Oracle Sequences (e.g. SEQ_USERS.NEXTVAL, SEQ_REQUESTS.NEXTVAL).'(font=None, size=None, bold=None, color=None)
+
+P[131][align=None][style=List Bullet]: Pagination Query Optimization: In the absence of OFFSET/FETCH syntax, large result sets are paginated using Oracle's nested ROWNUM subquery pattern.
+   RUNS: 'Pagination Query Optimization: In the absence of OFFSET/FETCH syntax, large result sets are paginated using Oracle's nested ROWNUM subquery pattern.'(font=None, size=None, bold=None, color=None)
+
+P[132][align=None][style=List Bullet]: Audit Timestamps: Creation and resolution events are recorded using native TIMESTAMP columns populated via CURRENT_TIMESTAMP.
+   RUNS: 'Audit Timestamps: Creation and resolution events are recorded using native TIMESTAMP columns populated via CURRENT_TIMESTAMP.'(font=None, size=None, bold=None, color=None)
+
+P[133][align=None][style=Normal]: 2.3 Servlets and the Apache Tomcat Container
+   RUNS: '2.3 Servlets and the Apache Tomcat Container'(font=None, size=13.0, bold=True, color=None)
+
+P[134][align=None][style=Normal]: A Java Servlet is a server-side component managed by a web container that receives and responds to HTTP requests. Apache Tomcat 9.0.121 acts as the Servlet 4.0 / JSP 2.3 container, managing servlet lifecycles (init(), service(), destroy()) under the javax.servlet API. CampusFlow deploys 23 dedicated servlet controllers that parse requests, invoke services, enforce authorization, and implement the Post/Redirect/Get (PRG) pattern to eliminate accidental duplicate submissions.
+   RUNS: 'A Java Servlet is a server-side component managed by a web container that receives and responds to HTTP requests. Apache Tomcat 9.0.121 acts as the Servlet 4.0 / JSP 2.3 container, managing servlet lifecycles (init(), service(), destroy()) under the javax.servlet API. CampusFlow deploys 23 dedicated servlet controllers that parse requests, invoke services, enforce authorization, and implement the Post/Redirect/Get (PRG) pattern to eliminate accidental duplicate submissions.'(font=None, size=None, bold=None, color=None)
+
+P[135][align=None][style=Normal]: Session management relies on Tomcat's HttpSession mechanism. Upon successful authentication, any existing session is invalidated to neutralize session fixation attacks, and a fresh session is provisioned storing the user's ID, role, and name. Tomcat transmits the session token in a secure JSESSIONID cookie.
+   RUNS: 'Session management relies on Tomcat's HttpSession mechanism. Upon successful authentication, any existing session is invalidated to neutralize session fixation attacks, and a fresh session is provisioned storing the user's ID, role, and name. Tomcat transmits the session token in a secure JSESSIONID cookie.'(font=None, size=None, bold=None, color=None)
+
+P[136][align=None][style=Normal]: 2.4 JSP (JavaServer Pages)
+   RUNS: '2.4 JSP (JavaServer Pages)'(font=None, size=13.0, bold=True, color=None)
+
+P[137][align=None][style=Normal]: JavaServer Pages enable dynamic HTML generation on the server. When first requested, Tomcat's Jasper engine translates each .jsp template into a Java servlet, compiles it, and executes it. CampusFlow structures views into reusable modular fragments (header.jsp, sidebar.jsp, footer.jsp, messages.jsp) imported across all pages.
+   RUNS: 'JavaServer Pages enable dynamic HTML generation on the server. When first requested, Tomcat's Jasper engine translates each .jsp template into a Java servlet, compiles it, and executes it. CampusFlow structures views into reusable modular fragments (header.jsp, sidebar.jsp, footer.jsp, messages.jsp) imported across all pages.'(font=None, size=None, bold=None, color=None)
+
+P[138][align=None][style=Normal]: 2.5 Supporting Tools and Libraries
+   RUNS: '2.5 Supporting Tools and Libraries'(font=None, size=13.0, bold=True, color=None)
+
+P[139][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[140][align=CENTER (1)][style=Normal]: 8
+   RUNS: '8'(font=None, size=10.0, bold=None, color=None)
+
+P[141][align=CENTER (1)][style=Normal]: 3. WEB APPLICATION ARCHITECTURE
+   RUNS: '3. WEB APPLICATION ARCHITECTURE'(font=None, size=15.0, bold=True, color=None)
+
+P[142][align=None][style=Normal]: 3.1 Three-Tier Architecture
+   RUNS: '3.1 Three-Tier Architecture'(font=None, size=13.0, bold=True, color=None)
+
+P[143][align=None][style=Normal]: CampusFlow strictly adheres to an enterprise three-tier Model-View-Controller (MVC) architecture. The Presentation Tier comprises the client browser executing HTML5, modern CSS3, and progressive Vanilla JavaScript. The Application Tier comprises the Apache Tomcat 9 web container, hosting Java Servlets, JSP templates, session managers, security filters, and business service beans. The Data Tier is an Oracle 10g Express Edition database engine guaranteeing ACID transaction properties and data durability.
+   RUNS: 'CampusFlow strictly adheres to an enterprise three-tier Model-View-Controller (MVC) architecture. The Presentation Tier comprises the client browser executing HTML5, modern CSS3, and progressive Vanilla JavaScript. The Application Tier comprises the Apache Tomcat 9 web container, hosting Java Servlets, JSP templates, session managers, security filters, and business service beans. The Data Tier is an Oracle 10g Express Edition database engine guaranteeing ACID transaction properties and data durability.'(font=None, size=None, bold=None, color=None)
+
+P[144][align=CENTER (1)][style=Normal]: 
+   RUNS: 
+
+P[145][align=CENTER (1)][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[146][align=CENTER (1)][style=Normal]: Figure 3.1: Three-tier architecture of CampusFlow
+   RUNS: 'Figure 3.1: Three-tier architecture of CampusFlow'(font=None, size=10.5, bold=True, color=None)
+
+P[147][align=None][style=Normal]: A typical request travels through the architecture as follows:
+   RUNS: 'A typical request travels through the architecture as follows:'(font=None, size=None, bold=None, color=None)
+
+P[148][align=None][style=List Bullet]: The browser dispatches an HTTP request (GET for page viewing, POST for state changes).
+   RUNS: 'The browser dispatches an HTTP request (GET for page viewing, POST for state changes).'(font=None, size=None, bold=None, color=None)
+
+P[149][align=None][style=List Bullet]: AuthenticationFilter verifies session presence and role permissions; CsrfFilter validates synchronizer tokens on POST.
+   RUNS: 'AuthenticationFilter verifies session presence and role permissions; CsrfFilter validates synchronizer tokens on POST.'(font=None, size=None, bold=None, color=None)
+
+P[150][align=None][style=List Bullet]: The targeted HttpServlet controller extracts parameters, performs server-side validation, and invokes the appropriate Service class.
+   RUNS: 'The targeted HttpServlet controller extracts parameters, performs server-side validation, and invokes the appropriate Service class.'(font=None, size=None, bold=None, color=None)
+
+P[151][align=None][style=List Bullet]: The Service class applies business workflows, executes state-transition checks or priority calculations, and calls the Data Access Object (DAO).
+   RUNS: 'The Service class applies business workflows, executes state-transition checks or priority calculations, and calls the Data Access Object (DAO).'(font=None, size=None, bold=None, color=None)
+
+P[152][align=None][style=List Bullet]: The DAO executes a pre-compiled SQL PreparedStatement against Oracle 10g XE over JDBC and maps the returned ResultSet into JavaBean models.
+   RUNS: 'The DAO executes a pre-compiled SQL PreparedStatement against Oracle 10g XE over JDBC and maps the returned ResultSet into JavaBean models.'(font=None, size=None, bold=None, color=None)
+
+P[153][align=None][style=List Bullet]: The controller stores the beans as request attributes and forwards execution to the corresponding JSP template (or redirects via PRG pattern).
+   RUNS: 'The controller stores the beans as request attributes and forwards execution to the corresponding JSP template (or redirects via PRG pattern).'(font=None, size=None, bold=None, color=None)
+
+P[154][align=None][style=List Bullet]: Tomcat renders the dynamic HTML document and transmits the HTTP response back to the client browser.
+   RUNS: 'Tomcat renders the dynamic HTML document and transmits the HTTP response back to the client browser.'(font=None, size=None, bold=None, color=None)
+
+P[155][align=None][style=Normal]: 3.2 Pages and Their Roles
+   RUNS: '3.2 Pages and Their Roles'(font=None, size=13.0, bold=True, color=None)
+
+P[156][align=None][style=Normal]: 3.3 Database Design
+   RUNS: '3.3 Database Design'(font=None, size=13.0, bold=True, color=None)
+
+P[157][align=None][style=Normal]: The relational schema is structured into 6 interrelated tables enforced by primary keys, foreign keys, and domain check constraints. An Entity-Relationship diagram illustrating these relationships is presented below.
+   RUNS: 'The relational schema is structured into 6 interrelated tables enforced by primary keys, foreign keys, and domain check constraints. An Entity-Relationship diagram illustrating these relationships is presented below.'(font=None, size=None, bold=None, color=None)
+
+P[158][align=CENTER (1)][style=Normal]: 
+   RUNS: 
+
+P[159][align=CENTER (1)][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[160][align=CENTER (1)][style=Normal]: Figure 3.2: Entity-relationship diagram of CampusFlow
+   RUNS: 'Figure 3.2: Entity-relationship diagram of CampusFlow'(font=None, size=10.5, bold=True, color=None)
+
+P[161][align=None][style=Normal]: Table 3.1: DEPARTMENTS
+   RUNS: 'Table 3.1: DEPARTMENTS'(font=None, size=11.0, bold=True, color=None)
+
+P[162][align=None][style=Normal]: Table 3.2: USERS
+   RUNS: 'Table 3.2: USERS'(font=None, size=11.0, bold=True, color=None)
+
+P[163][align=None][style=Normal]: Table 3.3: REQUESTS
+   RUNS: 'Table 3.3: REQUESTS'(font=None, size=11.0, bold=True, color=None)
+
+P[164][align=None][style=Normal]: Table 3.4: REQUEST_HISTORY
+   RUNS: 'Table 3.4: REQUEST_HISTORY'(font=None, size=11.0, bold=True, color=None)
+
+P[165][align=None][style=Normal]: Table 3.5: FEEDBACK
+   RUNS: 'Table 3.5: FEEDBACK'(font=None, size=11.0, bold=True, color=None)
+
+P[166][align=None][style=Normal]: Table 3.6: NOTIFICATIONS
+   RUNS: 'Table 3.6: NOTIFICATIONS'(font=None, size=11.0, bold=True, color=None)
+
+P[167][align=None][style=Normal]: 3.4 Data Flow
+   RUNS: '3.4 Data Flow'(font=None, size=13.0, bold=True, color=None)
+
+P[168][align=None][style=Normal]: User Registration and Authentication Flow: During signup, the server validates input format, verifies that the email is not already registered, hashes the password with salted PBKDF2, and inserts a row into USERS. During login, the user's record is fetched by email, the password hash is compared in constant time, and a fresh session is established. Generic error messages prevent account enumeration attacks.
+   RUNS: 'User Registration and Authentication Flow: During signup, the server validates input format, verifies that the email is not already registered, hashes the password with salted PBKDF2, and inserts a row into USERS. During login, the user's record is fetched by email, the password hash is compared in constant time, and a fresh session is established. Generic error messages prevent account enumeration attacks.'(font=None, size=None, bold=None, color=None)
+
+P[169][align=CENTER (1)][style=Normal]: 
+   RUNS: 
+
+P[170][align=CENTER (1)][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[171][align=CENTER (1)][style=Normal]: Figure 3.3: Signup and login flow
+   RUNS: 'Figure 3.3: Signup and login flow'(font=None, size=10.5, bold=True, color=None)
+
+P[172][align=None][style=Normal]: Service Request and State Machine Lifecycle: A student creates a request specifying location, category, urgency, and impact. PriorityService dynamically computes the priority and assigns an initial SUBMITTED state. An administrator dispatches the ticket to a department and staff member, advancing the state to ASSIGNED. The assigned staff member accepts the work (IN_PROGRESS) and records mandatory resolution remarks upon completion (RESOLVED). The student provides a 5-star rating, which transitions the ticket to CLOSED.
+   RUNS: 'Service Request and State Machine Lifecycle: A student creates a request specifying location, category, urgency, and impact. PriorityService dynamically computes the priority and assigns an initial SUBMITTED state. An administrator dispatches the ticket to a department and staff member, advancing the state to ASSIGNED. The assigned staff member accepts the work (IN_PROGRESS) and records mandatory resolution remarks upon completion (RESOLVED). The student provides a 5-star rating, which transitions the ticket to CLOSED.'(font=None, size=None, bold=None, color=None)
+
+P[173][align=CENTER (1)][style=Normal]: 
+   RUNS: 
+
+P[174][align=CENTER (1)][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[175][align=CENTER (1)][style=Normal]: Figure 3.4: Service request workflow and state transition lifecycle
+   RUNS: 'Figure 3.4: Service request workflow and state transition lifecycle'(font=None, size=10.5, bold=True, color=None)
+
+P[176][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[177][align=CENTER (1)][style=Normal]: 13
+   RUNS: '13'(font=None, size=10.0, bold=None, color=None)
+
+P[178][align=CENTER (1)][style=Normal]: 4. CODING & IMPLEMENTATION
+   RUNS: '4. CODING & IMPLEMENTATION'(font=None, size=15.0, bold=True, color=None)
+
+P[179][align=None][style=Normal]: This chapter presents key architectural excerpts and source listings from CampusFlow, demonstrating the implementation of database access, secure authentication, dynamic priority calculation, workflow transitions, and defensive security measures.
+   RUNS: 'This chapter presents key architectural excerpts and source listings from CampusFlow, demonstrating the implementation of database access, secure authentication, dynamic priority calculation, workflow transitions, and defensive security measures.'(font=None, size=None, bold=None, color=None)
+
+P[180][align=None][style=Normal]: 4.1 Project Structure
+   RUNS: '4.1 Project Structure'(font=None, size=13.0, bold=True, color=None)
+
+P[181][align=None][style=Normal]: Project Structure Tree
+   RUNS: 'Project Structure Tree'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[182][align=None][style=Normal]: 
+   RUNS: 
+
+P[183][align=None][style=Normal]: 4.2 Database Implementation
+   RUNS: '4.2 Database Implementation'(font=None, size=13.0, bold=True, color=None)
+
+P[184][align=None][style=Normal]: The database tables and sequences were created in Oracle SQL*Plus. The listings below illustrate table creation DDL and sequence generation.
+   RUNS: 'The database tables and sequences were created in Oracle SQL*Plus. The listings below illustrate table creation DDL and sequence generation.'(font=None, size=None, bold=None, color=None)
+
+P[185][align=None][style=Normal]: Listing 4.1: Table creation (users and requests)
+   RUNS: 'Listing 4.1: Table creation (users and requests)'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[186][align=None][style=Normal]: 
+   RUNS: 
+
+P[187][align=None][style=Normal]: Listing 4.2: Oracle Sequence and Sample DML
+   RUNS: 'Listing 4.2: Oracle Sequence and Sample DML'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[188][align=None][style=Normal]: 
+   RUNS: 
+
+P[189][align=None][style=Normal]: 4.3 Database Connection
+   RUNS: '4.3 Database Connection'(font=None, size=13.0, bold=True, color=None)
+
+P[190][align=None][style=Normal]: Listing 4.3: DBConnection.java (Oracle JDBC Thin Driver)
+   RUNS: 'Listing 4.3: DBConnection.java (Oracle JDBC Thin Driver)'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[191][align=None][style=Normal]: 
+   RUNS: 
+
+P[192][align=None][style=Normal]: 4.4 Registration / Signup Module
+   RUNS: '4.4 Registration / Signup Module'(font=None, size=13.0, bold=True, color=None)
+
+P[193][align=None][style=Normal]: RegisterServlet validates all input fields, verifies email uniqueness, derives a salted PBKDF2 hash, and inserts the student into Oracle.
+   RUNS: 'RegisterServlet validates all input fields, verifies email uniqueness, derives a salted PBKDF2 hash, and inserts the student into Oracle.'(font=None, size=None, bold=None, color=None)
+
+P[194][align=None][style=Normal]: Listing 4.4: Server-side validation in RegisterServlet
+   RUNS: 'Listing 4.4: Server-side validation in RegisterServlet'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[195][align=None][style=Normal]: 
+   RUNS: 
+
+P[196][align=None][style=Normal]: Listing 4.5: PBKDF2 Password Hashing and Insert
+   RUNS: 'Listing 4.5: PBKDF2 Password Hashing and Insert'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[197][align=None][style=Normal]: 
+   RUNS: 
+
+P[198][align=None][style=Normal]: 4.5 Login and Logout Module
+   RUNS: '4.5 Login and Logout Module'(font=None, size=13.0, bold=True, color=None)
+
+P[199][align=None][style=Normal]: Listing 4.6: Login verification and session creation
+   RUNS: 'Listing 4.6: Login verification and session creation'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[200][align=None][style=Normal]: 
+   RUNS: 
+
+P[201][align=None][style=Normal]: Listing 4.7: Logout and session invalidation
+   RUNS: 'Listing 4.7: Logout and session invalidation'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[202][align=None][style=Normal]: 
+   RUNS: 
+
+P[203][align=None][style=Normal]: 4.6 Request Creation & Priority Engine Module
+   RUNS: '4.6 Request Creation & Priority Engine Module'(font=None, size=13.0, bold=True, color=None)
+
+P[204][align=None][style=Normal]: Listing 4.9: Rule-based Priority Engine in PriorityService.java
+   RUNS: 'Listing 4.9: Rule-based Priority Engine in PriorityService.java'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[205][align=None][style=Normal]: 
+   RUNS: 
+
+P[206][align=None][style=Normal]: Listing 4.10: Service Request INSERT in RequestDAO.java
+   RUNS: 'Listing 4.10: Service Request INSERT in RequestDAO.java'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[207][align=None][style=Normal]: 
+   RUNS: 
+
+P[208][align=None][style=Normal]: 4.7 Staff Action & Workflow Transition Module
+   RUNS: '4.7 Staff Action & Workflow Transition Module'(font=None, size=13.0, bold=True, color=None)
+
+P[209][align=None][style=Normal]: Listing 4.11: Atomic Workflow Transition in WorkflowService.java
+   RUNS: 'Listing 4.11: Atomic Workflow Transition in WorkflowService.java'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[210][align=None][style=Normal]: 
+   RUNS: 
+
+P[211][align=None][style=Normal]: 4.8 Admin Assignment & User Governance Module
+   RUNS: '4.8 Admin Assignment & User Governance Module'(font=None, size=13.0, bold=True, color=None)
+
+P[212][align=None][style=Normal]: Listing 4.14: Oracle ROWNUM Nested Subquery Pagination
+   RUNS: 'Listing 4.14: Oracle ROWNUM Nested Subquery Pagination'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[213][align=None][style=Normal]: 
+   RUNS: 
+
+P[214][align=None][style=Normal]: 4.9 Feedback & Notification Module
+   RUNS: '4.9 Feedback & Notification Module'(font=None, size=13.0, bold=True, color=None)
+
+P[215][align=None][style=Normal]: Listing 4.15: Feedback Submission and Ticket Closure
+   RUNS: 'Listing 4.15: Feedback Submission and Ticket Closure'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[216][align=None][style=Normal]: 
+   RUNS: 
+
+P[217][align=None][style=Normal]: 4.10 Security Measures
+   RUNS: '4.10 Security Measures'(font=None, size=13.0, bold=True, color=None)
+
+P[218][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[219][align=CENTER (1)][style=Normal]: 21
+   RUNS: '21'(font=None, size=10.0, bold=None, color=None)
+
+P[220][align=CENTER (1)][style=Normal]: 5. RESULTS
+   RUNS: '5. RESULTS'(font=None, size=15.0, bold=True, color=None)
+
+P[221][align=None][style=Normal]: This chapter presents the working web application running on Apache Tomcat 9 (localhost:8089) and the persistent database records stored in Oracle 10g XE. Prominent screenshot placeholder containers are provided below matching the layout of the reference report, ready for visual browser captures.
+   RUNS: 'This chapter presents the working web application running on Apache Tomcat 9 (localhost:8089) and the persistent database records stored in Oracle 10g XE. Prominent screenshot placeholder containers are provided below matching the layout of the reference report, ready for visual browser captures.'(font=None, size=None, bold=None, color=None)
+
+P[222][align=None][style=Normal]: 5.1 Login Page
+   RUNS: '5.1 Login Page'(font=None, size=13.0, bold=True, color=None)
+
+P[223][align=None][style=Normal]: Figure 5.1 illustrates the authentication portal. Users enter registered email credentials and password. One-click demo credential shortcuts (Admin, Staff, Student) are provided for evaluation. Invalid credentials safely display 'Invalid email or password' without revealing account existence.
+   RUNS: 'Figure 5.1 illustrates the authentication portal. Users enter registered email credentials and password. One-click demo credential shortcuts (Admin, Staff, Student) are provided for evaluation. Invalid credentials safely display 'Invalid email or password' without revealing account existence.'(font=None, size=None, bold=None, color=None)
+
+P[224][align=CENTER (1)][style=Normal]: Figure 5.1: Login page
+   RUNS: 'Figure 5.1: Login page'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[225][align=None][style=Normal]: 5.2 Student Dashboard & Request Submission Page
+   RUNS: '5.2 Student Dashboard & Request Submission Page'(font=None, size=13.0, bold=True, color=None)
+
+P[226][align=None][style=Normal]: Figure 5.2 shows the Student Dashboard and Service Request Creation Form. The student selects category, title, description, location, urgency, and impact. The live Priority Engine preview dynamically updates the priority badge in real time. Upon submission, tracking code CF-2026-xxxxx is generated.
+   RUNS: 'Figure 5.2 shows the Student Dashboard and Service Request Creation Form. The student selects category, title, description, location, urgency, and impact. The live Priority Engine preview dynamically updates the priority badge in real time. Upon submission, tracking code CF-2026-xxxxx is generated.'(font=None, size=None, bold=None, color=None)
+
+P[227][align=CENTER (1)][style=Normal]: Figure 5.2: Student Dashboard and Request Submission
+   RUNS: 'Figure 5.2: Student Dashboard and Request Submission'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[228][align=None][style=Normal]: 5.3 Request Details & Timeline Tracking Page
+   RUNS: '5.3 Request Details & Timeline Tracking Page'(font=None, size=13.0, bold=True, color=None)
+
+P[229][align=None][style=Normal]: Figure 5.3 shows the Request Details and History Timeline. The page displays ticket metadata, assigned staff, priority badge, and an immutable audit timeline showing timestamps and remarks for each transition.
+   RUNS: 'Figure 5.3 shows the Request Details and History Timeline. The page displays ticket metadata, assigned staff, priority badge, and an immutable audit timeline showing timestamps and remarks for each transition.'(font=None, size=None, bold=None, color=None)
+
+P[230][align=CENTER (1)][style=Normal]: Figure 5.3: Request Details and Timeline Tracking
+   RUNS: 'Figure 5.3: Request Details and Timeline Tracking'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[231][align=None][style=Normal]: 5.4 Staff Dashboard & Task Action Page
+   RUNS: '5.4 Staff Dashboard & Task Action Page'(font=None, size=13.0, bold=True, color=None)
+
+P[232][align=None][style=Normal]: Figure 5.4 depicts the Staff Work Queue. Assigned technicians view pending tasks, click 'Start Work' (transitioning to IN_PROGRESS), and 'Mark as Resolved' with mandatory resolution remarks.
+   RUNS: 'Figure 5.4 depicts the Staff Work Queue. Assigned technicians view pending tasks, click 'Start Work' (transitioning to IN_PROGRESS), and 'Mark as Resolved' with mandatory resolution remarks.'(font=None, size=None, bold=None, color=None)
+
+P[233][align=CENTER (1)][style=Normal]: Figure 5.4: Staff Dashboard and Task Action
+   RUNS: 'Figure 5.4: Staff Dashboard and Task Action'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[234][align=None][style=Normal]: 5.5 Admin Dashboard & Request Assignment Page
+   RUNS: '5.5 Admin Dashboard & Request Assignment Page'(font=None, size=13.0, bold=True, color=None)
+
+P[235][align=None][style=Normal]: Figure 5.5 presents the Administrator Dashboard and Master Request Dispatch view. Administrators inspect all campus tickets, assign requests to departments and staff via modal dialogs, and override priority with mandatory justification.
+   RUNS: 'Figure 5.5 presents the Administrator Dashboard and Master Request Dispatch view. Administrators inspect all campus tickets, assign requests to departments and staff via modal dialogs, and override priority with mandatory justification.'(font=None, size=None, bold=None, color=None)
+
+P[236][align=CENTER (1)][style=Normal]: Figure 5.5: Admin Dashboard and Request Assignment
+   RUNS: 'Figure 5.5: Admin Dashboard and Request Assignment'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[237][align=None][style=Normal]: 5.6 Analytics & Reports Page
+   RUNS: '5.6 Analytics & Reports Page'(font=None, size=13.0, bold=True, color=None)
+
+P[238][align=None][style=Normal]: Figure 5.6 illustrates operational analytics rendered via native SVG Donut and Bar charts, displaying status distribution, priority breakdown, and departmental resolution turnaround speeds.
+   RUNS: 'Figure 5.6 illustrates operational analytics rendered via native SVG Donut and Bar charts, displaying status distribution, priority breakdown, and departmental resolution turnaround speeds.'(font=None, size=None, bold=None, color=None)
+
+P[239][align=CENTER (1)][style=Normal]: Figure 5.6: Operational Analytics and Reports
+   RUNS: 'Figure 5.6: Operational Analytics and Reports'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[240][align=None][style=Normal]: 5.7 Database Output
+   RUNS: '5.7 Database Output'(font=None, size=13.0, bold=True, color=None)
+
+P[241][align=None][style=Normal]: The following formatted database records and screenshots reflect direct queries executed in Oracle SQL*Plus, confirming persistent database storage across all schema tables.
+   RUNS: 'The following formatted database records and screenshots reflect direct queries executed in Oracle SQL*Plus, confirming persistent database storage across all schema tables.'(font=None, size=None, bold=None, color=None)
+
+P[242][align=CENTER (1)][style=Normal]: Figure 5.7: USERS table with PBKDF2 salted hashes in SQL*Plus
+   RUNS: 'Figure 5.7: USERS table with PBKDF2 salted hashes in SQL*Plus'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[243][align=CENTER (1)][style=Normal]: Figure 5.8: DEPARTMENTS table in SQL*Plus
+   RUNS: 'Figure 5.8: DEPARTMENTS table in SQL*Plus'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[244][align=CENTER (1)][style=Normal]: Figure 5.9: REQUESTS table with tracking codes and priorities
+   RUNS: 'Figure 5.9: REQUESTS table with tracking codes and priorities'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[245][align=CENTER (1)][style=Normal]: Figure 5.10: REQUEST_HISTORY audit trail table
+   RUNS: 'Figure 5.10: REQUEST_HISTORY audit trail table'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[246][align=CENTER (1)][style=Normal]: Figure 5.11: FEEDBACK table with 5-star student ratings
+   RUNS: 'Figure 5.11: FEEDBACK table with 5-star student ratings'(font=Times New Roman, size=10.5, bold=True, color=None)
+
+P[247][align=None][style=Normal]: 5.8 Testing
+   RUNS: '5.8 Testing'(font=None, size=13.0, bold=True, color=None)
+
+P[248][align=None][style=Normal]: The application was systematically verified across unit, DAO, workflow, and HTTP security tiers with 100% pass rate. A summary of test cases is presented below.
+   RUNS: 'The application was systematically verified across unit, DAO, workflow, and HTTP security tiers with 100% pass rate. A summary of test cases is presented below.'(font=None, size=None, bold=None, color=None)
+
+P[249][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[250][align=CENTER (1)][style=Normal]: 27
+   RUNS: '27'(font=None, size=10.0, bold=None, color=None)
+
+P[251][align=CENTER (1)][style=Normal]: 6. CONCLUSION
+   RUNS: '6. CONCLUSION'(font=None, size=15.0, bold=True, color=None)
+
+P[252][align=None][style=Normal]: CampusFlow: Smart Service & Issue Management System demonstrates how a robust, database-driven, enterprise web application can be built entirely with pure Java EE technologies without external third-party frameworks. Students can register, submit campus service requests, receive unique tracking numbers, monitor ticket progress through an audit timeline, and submit post-resolution feedback. Staff members manage assigned queues and log resolution remarks, while administrators govern user accounts, manage departments, dispatch technicians, and inspect live operational analytics. All application records are securely persisted in an Oracle 10g Express Edition database accessed through parameterized JDBC PreparedStatements, and web pages are dynamically rendered by JSP templates on Apache Tomcat 9. Security is woven throughout the application design: passwords use salted PBKDF2 key derivation, forms enforce anti-CSRF tokens, dynamic output is HTML-escaped, and sessions are guarded against fixation.
+   RUNS: 'CampusFlow: Smart Service & Issue Management System demonstrates how a robust, database-driven, enterprise web application can be built entirely with pure Java EE technologies without external third-party frameworks. Students can register, submit campus service requests, receive unique tracking numbers, monitor ticket progress through an audit timeline, and submit post-resolution feedback. Staff members manage assigned queues and log resolution remarks, while administrators govern user accounts, manage departments, dispatch technicians, and inspect live operational analytics. All application records are securely persisted in an Oracle 10g Express Edition database accessed through parameterized JDBC PreparedStatements, and web pages are dynamically rendered by JSP templates on Apache Tomcat 9. Security is woven throughout the application design: passwords use salted PBKDF2 key derivation, forms enforce anti-CSRF tokens, dynamic output is HTML-escaped, and sessions are guarded against fixation.'(font=None, size=None, bold=None, color=None)
+
+P[253][align=None][style=Normal]: The project provided valuable practical experience in relational database modeling, Oracle sequences, domain constraints, JDBC transaction boundaries, Servlet lifecycle orchestration, modular JSP layout, and writing clean, maintainable MVC software.
+   RUNS: 'The project provided valuable practical experience in relational database modeling, Oracle sequences, domain constraints, JDBC transaction boundaries, Servlet lifecycle orchestration, modular JSP layout, and writing clean, maintainable MVC software.'(font=None, size=None, bold=None, color=None)
+
+P[254][align=None][style=Normal]: Limitations
+   RUNS: 'Limitations'(font=None, size=12.0, bold=True, color=None)
+
+P[255][align=None][style=List Bullet]: In-App Notification Relays: Notifications are currently stored internally in the database; direct SMS or external SMTP email relays were omitted to guarantee offline operational capability.
+   RUNS: 'In-App Notification Relays: Notifications are currently stored internally in the database; direct SMS or external SMTP email relays were omitted to guarantee offline operational capability.'(font=None, size=None, bold=None, color=None)
+
+P[256][align=None][style=List Bullet]: Attachment Upload Storage: Multi-part media attachments (e.g. photos of damaged equipment) are not persisted in Oracle to keep the database footprint lightweight across student desktop installations.
+   RUNS: 'Attachment Upload Storage: Multi-part media attachments (e.g. photos of damaged equipment) are not persisted in Oracle to keep the database footprint lightweight across student desktop installations.'(font=None, size=None, bold=None, color=None)
+
+P[257][align=None][style=List Bullet]: Single-Instance Connection Factory: Database connections are managed via DBConnection.java; high-concurrency production deployments would benefit from container-managed JNDI connection pooling (e.g. Apache Commons DBCP).
+   RUNS: 'Single-Instance Connection Factory: Database connections are managed via DBConnection.java; high-concurrency production deployments would benefit from container-managed JNDI connection pooling (e.g. Apache Commons DBCP).'(font=None, size=None, bold=None, color=None)
+
+P[258][align=None][style=List Bullet]: Geographic Mapping: Campus locations are identified through structured text fields (e.g. 'Block B, Room 204') rather than interactive GPS or indoor floor plan mapping.
+   RUNS: 'Geographic Mapping: Campus locations are identified through structured text fields (e.g. 'Block B, Room 204') rather than interactive GPS or indoor floor plan mapping.'(font=None, size=None, bold=None, color=None)
+
+P[259][align=None][style=Normal]: Future Scope
+   RUNS: 'Future Scope'(font=None, size=12.0, bold=True, color=None)
+
+P[260][align=None][style=List Bullet]: Mobile Application Integration: Develop native Android and iOS mobile applications communicating with the existing Java Servlets via RESTful JSON endpoints.
+   RUNS: 'Mobile Application Integration: Develop native Android and iOS mobile applications communicating with the existing Java Servlets via RESTful JSON endpoints.'(font=None, size=None, bold=None, color=None)
+
+P[261][align=None][style=List Bullet]: Automated Email & SMS Alerts: Integrate JavaMail API and SMS gateway webhooks to push real-time alerts to students and technicians on ticket status changes.
+   RUNS: 'Automated Email & SMS Alerts: Integrate JavaMail API and SMS gateway webhooks to push real-time alerts to students and technicians on ticket status changes.'(font=None, size=None, bold=None, color=None)
+
+P[262][align=None][style=List Bullet]: AI-Powered Issue Categorization: Implement Natural Language Processing (NLP) models to automatically classify complaint narratives and assign target departments.
+   RUNS: 'AI-Powered Issue Categorization: Implement Natural Language Processing (NLP) models to automatically classify complaint narratives and assign target departments.'(font=None, size=None, bold=None, color=None)
+
+P[263][align=None][style=List Bullet]: Interactive Campus GIS Mapping: Embed interactive campus indoor map visualizers allowing students to drop location pins on faulty equipment.
+   RUNS: 'Interactive Campus GIS Mapping: Embed interactive campus indoor map visualizers allowing students to drop location pins on faulty equipment.'(font=None, size=None, bold=None, color=None)
+
+P[264][align=None][style=List Bullet]: IoT Sensor Integration: Connect smart IoT sensors (e.g. water tank level sensors, power meter monitors) to trigger automated service tickets before human discovery.
+   RUNS: 'IoT Sensor Integration: Connect smart IoT sensors (e.g. water tank level sensors, power meter monitors) to trigger automated service tickets before human discovery.'(font=None, size=None, bold=None, color=None)
+
+P[265][align=None][style=Normal]: 
+   RUNS: ''(font=None, size=None, bold=None, color=None)
+
+P[266][align=CENTER (1)][style=Normal]: 28
+   RUNS: '28'(font=None, size=10.0, bold=None, color=None)
+
+P[267][align=CENTER (1)][style=Normal]: 7. REFERENCES
+   RUNS: '7. REFERENCES'(font=None, size=15.0, bold=True, color=None)
+
+P[268][align=None][style=Normal]: [1] Oracle Corporation, "Oracle Database JDBC Developer's Guide", Oracle Documentation. https://docs.oracle.com/en/database/
+   RUNS: '[1] Oracle Corporation, "Oracle Database JDBC Developer's Guide", Oracle Documentation. https://docs.oracle.com/en/database/'(font=None, size=None, bold=None, color=None)
+
+P[269][align=None][style=Normal]: [2] The Apache Software Foundation, "Apache Tomcat 9 Documentation" (including the Jasper 2 JSP Engine How-To). https://tomcat.apache.org/tomcat-9.0-doc/
+   RUNS: '[2] The Apache Software Foundation, "Apache Tomcat 9 Documentation" (including the Jasper 2 JSP Engine How-To). https://tomcat.apache.org/tomcat-9.0-doc/'(font=None, size=None, bold=None, color=None)
+
+P[270][align=None][style=Normal]: [3] JavaServer Pages Specification 2.3 (JSR 245) and Java Servlet Specification 4.0 (JSR 369).
+   RUNS: '[3] JavaServer Pages Specification 2.3 (JSR 245) and Java Servlet Specification 4.0 (JSR 369).'(font=None, size=None, bold=None, color=None)
+
+P[271][align=None][style=Normal]: [4] Mozilla, "MDN Web Docs: HTML, CSS and JavaScript". https://developer.mozilla.org/
+   RUNS: '[4] Mozilla, "MDN Web Docs: HTML, CSS and JavaScript". https://developer.mozilla.org/'(font=None, size=None, bold=None, color=None)
+
+P[272][align=None][style=Normal]: [5] OWASP, "Password Storage Cheat Sheet - PBKDF2 Recommendation". https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html
+   RUNS: '[5] OWASP, "Password Storage Cheat Sheet - PBKDF2 Recommendation". https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html'(font=None, size=None, bold=None, color=None)
+
+P[273][align=None][style=Normal]: [6] OWASP, "Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet". https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
+   RUNS: '[6] OWASP, "Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet". https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html'(font=None, size=None, bold=None, color=None)
+
+P[274][align=None][style=Normal]: [7] OWASP, "SQL Injection Prevention Cheat Sheet". https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html
+   RUNS: '[7] OWASP, "SQL Injection Prevention Cheat Sheet". https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html'(font=None, size=None, bold=None, color=None)
+
+P[275][align=None][style=Normal]: [8] NIST Special Publication 800-132, "Recommendation for Password-Based Key Derivation: Part 1 - Storage Applications".
+   RUNS: '[8] NIST Special Publication 800-132, "Recommendation for Password-Based Key Derivation: Part 1 - Storage Applications".'(font=None, size=None, bold=None, color=None)
+
+P[276][align=None][style=Normal]: [9] Herbert Schildt, "Java: The Complete Reference", 12th Edition, McGraw-Hill Education.
+   RUNS: '[9] Herbert Schildt, "Java: The Complete Reference", 12th Edition, McGraw-Hill Education.'(font=None, size=None, bold=None, color=None)
+
+P[277][align=None][style=Normal]: [10] Marty Hall and Larry Brown, "Core Servlets and JavaServer Pages: Advanced Technologies", Prentice Hall PTR.
+   RUNS: '[10] Marty Hall and Larry Brown, "Core Servlets and JavaServer Pages: Advanced Technologies", Prentice Hall PTR.'(font=None, size=None, bold=None, color=None)
+
+
+=== TABLES ===
+
+--- Table 1 (Rows: 1, Cols: 2) ---
+  Row 0: Nimmala Venkata Umesh Chandra | 24761A05AD
+
+--- Table 2 (Rows: 1, Cols: 2) ---
+  Row 0: Nimmala Venkata Umesh Chandra | 24761A05AD
+
+--- Table 3 (Rows: 1, Cols: 2) ---
+  Row 0: INTERNAL EXAMINER | EXTERNAL EXAMINER
+
+--- Table 4 (Rows: 37, Cols: 2) ---
+  Row 0: CONTENTS | PAGE NO
+  Row 1: 1. INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 1-3
+  Row 2:     1.1 Overview of the Project . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 1-2
+  Row 3:     1.2 Feasibility Study . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 2-3
+  Row 4: 2. TECHNOLOGIES USED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 4-7
+  Row 5:     2.1 HTML, CSS & JavaScript . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 4
+  Row 6:     2.2 JDBC (Oracle) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 4-6
+  Row 7:     2.3 Servlets and the Apache Tomcat Container . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 6
+  Row 8:     2.4 JSP (JavaServer Pages) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 6-7
+  Row 9:     2.5 Supporting Tools and Libraries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 7
+  Row 10: 3. WEB APPLICATION ARCHITECTURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 8-12
+  Row 11:     3.1 Three-Tier Architecture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 8
+  Row 12:     3.2 Pages and Their Roles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 8-9
+  Row 13:     3.3 Database Design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 9-11
+  Row 14:     3.4 Data Flow . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 11-12
+  Row 15: 4. CODING & IMPLEMENTATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 13-20
+  Row 16:     4.1 Project Structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 13
+  Row 17:     4.2 Database Implementation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 13-14
+  Row 18:     4.3 Database Connection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 14
+  Row 19:     4.4 Registration / Signup Module . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 14-15
+  Row 20:     4.5 Login and Logout Module . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 15-16
+  Row 21:     4.6 Request Creation & Priority Engine Module . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 16-17
+  Row 22:     4.7 Staff Action & Workflow Transition Module . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 17-18
+  Row 23:     4.8 Admin Assignment & User Governance Module . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 18-19
+  Row 24:     4.9 Feedback & Notification Module . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 19-20
+  Row 25:     4.10 Security Measures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 20
+  Row 26: 5. RESULTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 21-26
+  Row 27:     5.1 Login Page . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 21
+  Row 28:     5.2 Student Dashboard & Request Submission Page . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 21-22
+  Row 29:     5.3 Request Details & Timeline Tracking Page . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 22
+  Row 30:     5.4 Staff Dashboard & Task Action Page . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 22-23
+  Row 31:     5.5 Admin Dashboard & Request Assignment Page . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 23
+  Row 32:     5.6 Analytics & Reports Page . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 23-24
+  Row 33:     5.7 Database Output . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 24-26
+  Row 34:     5.8 Testing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 26
+  Row 35: 6. CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 27
+  Row 36: 7. REFERENCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 28
+
+--- Table 5 (Rows: 6, Cols: 2) ---
+  Row 0: Module | Description
+  Row 1: User Management | Student registration with client/server validation, PBKDF2 password hashing, secure login, session fixation protection, and profile updates.
+  Row 2: Request Management | Structured ticket submission form, dynamic priority engine preview, unique tracking code generation (CF-2026-xxxxx), personal request filtering, and pre-assignment editing.
+  Row 3: Staff Workflow | Assigned task queue, workload metric counters, progress transition to IN_PROGRESS, resolution remarks logging, and student notification dispatch.
+  Row 4: Administrative Governance | Enterprise request master directory, multi-attribute filtering, staff assignment and reassignment, priority override with mandatory justification, department CRUD, and user activation governance.
+  Row 5: Feedback & Analytics | Post-resolution 5-star rating submission, automated ticket closure, and native SVG Donut and Bar charts displaying operational performance.
+
+--- Table 6 (Rows: 10, Cols: 2) ---
+  Row 0: Item | Requirement used in this project
+  Row 1: Processor / RAM | Intel Core i3 / i5 or higher, 8 GB RAM
+  Row 2: Disk space | About 3 GB free for Oracle 10g XE, Apache Tomcat 9.0, JDK, and Project WAR
+  Row 3: Operating system | Windows 10 / Windows 11 (64-bit)
+  Row 4: Java Environment | OpenJDK 17.0.19 LTS (compatible with javax.servlet API)
+  Row 5: IDE | Eclipse IDE for Enterprise Java and Web Developers / VS Code
+  Row 6: Web / JSP container | Apache Tomcat 9.0.121 (Configured on HTTP Port 8089)
+  Row 7: Database | Oracle Database 10g Express Edition (SID: xe, Service: localhost:1521)
+  Row 8: JDBC Driver | Oracle Thin Driver (ojdbc14.jar / ojdbc8.jar)
+  Row 9: Web Browser | Google Chrome, Microsoft Edge, Mozilla Firefox
+
+--- Table 7 (Rows: 4, Cols: 2) ---
+  Row 0: Technology | Use in CampusFlow
+  Row 1: HTML5 | Semantic page structure, responsive data tables, accessible input forms, dialog containers.
+  Row 2: CSS3 | Design system with CSS custom properties, Flexbox/Grid layouts, badge indicators, transitions.
+  Row 3: Vanilla JavaScript | Live Priority Engine preview, AJAX staff fetching, modal window controls, SVG chart engine.
+
+--- Table 8 (Rows: 6, Cols: 2) ---
+  Row 0: JDBC Class / Interface | Purpose in CampusFlow
+  Row 1: DriverManager | Establishes physical database connections to Oracle XE via DBConnection.java.
+  Row 2: Connection | Maintains active session; manages transaction boundaries (setAutoCommit, commit, rollback).
+  Row 3: PreparedStatement | Pre-compiled parameterized SQL execution ensuring total immunity to SQL injection.
+  Row 4: ResultSet | Tabular data returned from SELECT queries, mapped into JavaBean domain objects.
+  Row 5: SQLException | Handles database exceptions, constraint violations (e.g. ORA-00001, ORA-02292).
+
+--- Table 9 (Rows: 6, Cols: 3) ---
+  Row 0: JSP Element | Example from CampusFlow | Meaning / Usage
+  Row 1: Page directive | <%@ page import="com.campusflow.model.*" %> | Imports Java classes and configures content type/encoding.
+  Row 2: Include directive | <%@ include file="/WEB-INF/views/common/header.jsp" %> | Merges common fragments during page translation.
+  Row 3: Expression | <%= SecurityUtil.escapeHtml(req.getTitle()) %> | Evaluates Java expressions and outputs sanitized HTML.
+  Row 4: Scriptlet | <% for(RequestBean b : list) { %> | Executes control flow and iteration logic within views.
+  Row 5: Implicit Objects | request, response, session, out | Built-in container objects providing HTTP context.
+
+--- Table 10 (Rows: 7, Cols: 3) ---
+  Row 0: Tool / Library | Version | Role in CampusFlow
+  Row 1: OpenJDK | 17.0.19 LTS | Compiles all 50 Java source files to bytecode.
+  Row 2: Apache Tomcat | 9.0.121 | Servlet 4.0 / JSP 2.3 runtime container on port 8089.
+  Row 3: Oracle Database XE | 10g Release 2 | Relational database engine storing all tables and sequences.
+  Row 4: Oracle JDBC Driver | ojdbc14.jar | Type-4 pure Java driver providing database connectivity.
+  Row 5: JDK Cryptography | PBKDF2WithHmacSHA256 | Salting and hashing user passwords with 65,536 iterations.
+  Row 6: PowerShell CLI | 5.1+ | Automated build, WAR packaging, deployment, and test scripts.
+
+--- Table 11 (Rows: 17, Cols: 2) ---
+  Row 0: File(s) / Controller | Role in CampusFlow
+  Row 1: DBConnection.java | Centralized JDBC connection factory loading Oracle Thin Driver and providing active connections.
+  Row 2: header.jsp, sidebar.jsp | Modular navigation fragments dynamically showing links based on authenticated user role (Student, Staff, Admin).
+  Row 3: index.jsp, HomeServlet | System landing page highlighting platform features, service categories, and quick login shortcuts.
+  Row 4: login.jsp, LoginServlet | Authentication form, PBKDF2 hash verification, session fixation prevention, and role routing.
+  Row 5: register.jsp, RegisterServlet | Student registration form, client/server input validation, duplicate email check, and PBKDF2 password hashing.
+  Row 6: RequestCreateServlet, create-request.jsp | Student request submission with interactive Priority Engine preview and automated tracking code generation.
+  Row 7: RequestListServlet, my-requests.jsp | Paginated student request directory with category and status filter controls.
+  Row 8: RequestDetailsServlet, request-details.jsp | Detailed ticket view showing current status badge, assigned staff, and chronological audit trail.
+  Row 9: RequestEditServlet, RequestCancelServlet | Enables students to edit or cancel pending tickets while still in SUBMITTED state.
+  Row 10: StaffDashboardServlet, StaffActionServlet | Staff assigned work queue, status transitions (IN_PROGRESS, RESOLVED), and mandatory remarks logging.
+  Row 11: AdminDashboardServlet, AdminRequestListServlet | Central administrative oversight, multi-attribute ticket filter, and operational metric cards.
+  Row 12: AdminAssignmentServlet, AdminPriorityServlet | Administrative dispatch of requests to departments/staff and priority override with recorded justification.
+  Row 13: DepartmentServlet, UserManagementServlet | Department CRUD operations and user directory governance (active/deactive toggle).
+  Row 14: FeedbackServlet, feedback.jsp | Post-resolution 5-star student review submission triggering automatic ticket closure.
+  Row 15: NotificationServlet, notifications.jsp | In-app notification center and unread badge count in navigation header.
+  Row 16: AnalyticsServlet, charts.js | Operational analytics dashboard rendering native SVG Donut and Bar charts directly in the DOM.
+
+--- Table 12 (Rows: 7, Cols: 3) ---
+  Row 0: Column | Type | Constraint / Note
+  Row 1: department_id | NUMBER | Primary key, generated by SEQ_DEPARTMENTS
+  Row 2: department_name | VARCHAR2(100) | NOT NULL, UNIQUE
+  Row 3: code | VARCHAR2(20) | NOT NULL, UNIQUE (e.g., IT, ELEC, PLUMB)
+  Row 4: description | VARCHAR2(500) | Department functional scope
+  Row 5: contact_email | VARCHAR2(150) | Official contact email
+  Row 6: is_active | NUMBER(1) | DEFAULT 1; CHECK (is_active IN (0, 1))
+
+--- Table 13 (Rows: 9, Cols: 3) ---
+  Row 0: Column | Type | Constraint / Note
+  Row 1: user_id | NUMBER | Primary key, generated by SEQ_USERS
+  Row 2: full_name | VARCHAR2(100) | NOT NULL
+  Row 3: email | VARCHAR2(150) | NOT NULL, UNIQUE (used for authentication)
+  Row 4: password_hash | VARCHAR2(256) | NOT NULL; PBKDF2 salted hash (iterations:salt:hash)
+  Row 5: role | VARCHAR2(20) | NOT NULL; CHECK (role IN ('STUDENT','STAFF','ADMIN'))
+  Row 6: phone | VARCHAR2(30) | Contact phone number
+  Row 7: department_id | NUMBER | Foreign key to DEPARTMENTS(department_id)
+  Row 8: is_active | NUMBER(1) | DEFAULT 1; CHECK (is_active IN (0, 1))
+
+--- Table 14 (Rows: 12, Cols: 3) ---
+  Row 0: Column | Type | Constraint / Note
+  Row 1: request_id | NUMBER | Primary key, generated by SEQ_REQUESTS
+  Row 2: tracking_number | VARCHAR2(30) | NOT NULL, UNIQUE (format: CF-2026-xxxxx)
+  Row 3: student_id | NUMBER | Foreign key to USERS(user_id)
+  Row 4: department_id | NUMBER | Foreign key to DEPARTMENTS(department_id)
+  Row 5: assigned_staff_id | NUMBER | Foreign key to USERS(user_id)
+  Row 6: priority | VARCHAR2(20) | CHECK (priority IN ('LOW','MEDIUM','HIGH','CRITICAL'))
+  Row 7: status | VARCHAR2(20) | CHECK (status IN ('SUBMITTED','ASSIGNED','IN_PROGRESS','RESOLVED','CLOSED','CANCELLED'))
+  Row 8: urgency_level | VARCHAR2(20) | CHECK (urgency_level IN ('LOW','MEDIUM','HIGH','EMERGENCY'))
+  Row 9: impact_level | VARCHAR2(20) | CHECK (impact_level IN ('SINGLE_USER','ROOM','FLOOR','BUILDING_WIDE'))
+  Row 10: location | VARCHAR2(200) | Campus physical location
+  Row 11: created_at | TIMESTAMP | DEFAULT CURRENT_TIMESTAMP
+
+--- Table 15 (Rows: 8, Cols: 3) ---
+  Row 0: Column | Type | Constraint / Note
+  Row 1: history_id | NUMBER | Primary key, generated by SEQ_REQUEST_HISTORY
+  Row 2: request_id | NUMBER | Foreign key to REQUESTS(request_id)
+  Row 3: old_status | VARCHAR2(20) | Previous status
+  Row 4: new_status | VARCHAR2(20) | New status
+  Row 5: changed_by_user_id | NUMBER | Foreign key to USERS(user_id)
+  Row 6: remarks | VARCHAR2(1000) | Transition action remarks or resolution notes
+  Row 7: created_at | TIMESTAMP | DEFAULT CURRENT_TIMESTAMP
+
+--- Table 16 (Rows: 7, Cols: 3) ---
+  Row 0: Column | Type | Constraint / Note
+  Row 1: feedback_id | NUMBER | Primary key, generated by SEQ_FEEDBACK
+  Row 2: request_id | NUMBER | Foreign key to REQUESTS(request_id)
+  Row 3: student_id | NUMBER | Foreign key to USERS(user_id)
+  Row 4: rating | NUMBER(1) | CHECK (rating BETWEEN 1 AND 5)
+  Row 5: comments | VARCHAR2(1000) | Student qualitative evaluation
+  Row 6: created_at | TIMESTAMP | DEFAULT CURRENT_TIMESTAMP; UNIQUE (request_id, student_id)
+
+--- Table 17 (Rows: 7, Cols: 3) ---
+  Row 0: Column | Type | Constraint / Note
+  Row 1: notification_id | NUMBER | Primary key, generated by SEQ_NOTIFICATIONS
+  Row 2: user_id | NUMBER | Foreign key to USERS(user_id)
+  Row 3: request_id | NUMBER | Foreign key to REQUESTS(request_id)
+  Row 4: title | VARCHAR2(150) | Headline notification message
+  Row 5: message | VARCHAR2(1000) | Full notification body text
+  Row 6: is_read | NUMBER(1) | DEFAULT 0; CHECK (is_read IN (0, 1))
+
+--- Table 18 (Rows: 1, Cols: 1) ---
+  Row 0: CampusFlow/ ├── database/                        Oracle XE SQL Schema & Seed Scripts │   ├── 01_create_schema.sql         6 Tables, 6 Sequences, Constraints │   ├── 02_seed_departments.sql     8 College Departments │   ├── 03_create_admin.sql          Bootstrap Admin, Staff, Student Users │   └── 04_indexes.sql               9 Performance Secondary Indexes ├── src/main/java/com/campusflow/ │   ├── config/DBConnection.java     Oracle Thin Driver JDBC Connection Manager │   ├── controller/                  23 HttpServlet MVC Controllers │   │   ├── LoginServlet.java, RegisterServlet.java, LogoutServlet.java │   │   ├── RequestCreateServlet.java, RequestListServlet.java │   │   ├── StaffDashboardServlet.java, StaffActionServlet.java │   │   └── AdminDashboardServlet.java, AdminAssignmentServlet.java │   ├── dao/                         6 JDBC Data Access Objects │   │   ├── UserDAO.java, DepartmentDAO.java, RequestDAO.java │   │   ├── RequestHistoryDAO.java, FeedbackDAO.java, NotificationDAO.java │   │   └── filter/ (AuthenticationFilter.java, CsrfFilter.java) │   ├── model/ (JavaBeans: User, Dept, Request, History, Feedback, Notif) │   ├── service/ (PriorityService, WorkflowService, AssignmentService) │   └── util/ (PasswordUtil, SecurityUtil, ValidationUtil, TrackingCodeUtil) └── src/main/webapp/     ├── assets/ (css/main.css, js/app.js, js/charts.js, images/logo.svg)     ├── WEB-INF/web.xml (Servlet mappings, error pages, session timeout)     └── WEB-INF/views/ (Modular JSPs: auth, student, staff, admin, common)
+
+--- Table 19 (Rows: 1, Cols: 1) ---
+  Row 0: CREATE TABLE users (     user_id NUMBER(10) PRIMARY KEY,     full_name VARCHAR2(100) NOT NULL,     email VARCHAR2(150) NOT NULL UNIQUE,     password_hash VARCHAR2(256) NOT NULL,     role VARCHAR2(20) NOT NULL,     phone VARCHAR2(30),     department_id NUMBER(10) REFERENCES departments(department_id),     is_active NUMBER(1) DEFAULT 1 NOT NULL,     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL,     CONSTRAINT chk_user_role CHECK (role IN ('STUDENT', 'STAFF', 'ADMIN')),     CONSTRAINT chk_user_active CHECK (is_active IN (0, 1)) );  CREATE TABLE requests (     request_id NUMBER(10) PRIMARY KEY,     tracking_number VARCHAR2(30) NOT NULL UNIQUE,     student_id NUMBER(10) NOT NULL REFERENCES users(user_id),     title VARCHAR2(200) NOT NULL,     description VARCHAR2(4000) NOT NULL,     category VARCHAR2(50) NOT NULL,     department_id NUMBER(10) REFERENCES departments(department_id),     assigned_staff_id NUMBER(10) REFERENCES users(user_id),     priority VARCHAR2(20) DEFAULT 'MEDIUM' NOT NULL,     status VARCHAR2(20) DEFAULT 'SUBMITTED' NOT NULL,     location VARCHAR2(200) NOT NULL,     urgency_level VARCHAR2(20) DEFAULT 'MEDIUM' NOT NULL,     impact_level VARCHAR2(20) DEFAULT 'SINGLE_USER' NOT NULL,     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL,     resolved_at TIMESTAMP,     CONSTRAINT chk_req_prio CHECK (priority IN ('LOW','MEDIUM','HIGH','CRITICAL')),     CONSTRAINT chk_req_stat CHECK (status IN ('SUBMITTED','ASSIGNED','IN_PROGRESS',                                               'RESOLVED','CLOSED','CANCELLED')) );
+
+--- Table 20 (Rows: 1, Cols: 1) ---
+  Row 0: CREATE SEQUENCE seq_requests START WITH 1 INCREMENT BY 1 NOCACHE; CREATE SEQUENCE seq_users START WITH 1 INCREMENT BY 1 NOCACHE;  INSERT INTO departments (department_id, department_name, code, contact_email) VALUES (seq_departments.NEXTVAL, 'Information Technology', 'IT', 'it@campusflow.edu');
+
+--- Table 21 (Rows: 1, Cols: 1) ---
+  Row 0: package com.campusflow.config;  import java.sql.Connection; import java.sql.DriverManager; import java.sql.SQLException;  public class DBConnection {     private static final String URL = "jdbc:oracle:thin:@localhost:1521:xe";     private static final String USER = "campusflow";     private static final String PASS = "campusflow123";      static {         try {             Class.forName("oracle.jdbc.driver.OracleDriver");         } catch (ClassNotFoundException e) {             throw new RuntimeException("Oracle JDBC Driver missing!", e);         }     }      public static Connection getConnection() throws SQLException {         return DriverManager.getConnection(URL, USER, PASS);     } }
+
+--- Table 22 (Rows: 1, Cols: 1) ---
+  Row 0: // Server-side validation in RegisterServlet.java if (!ValidationUtil.isValidEmail(email)) {     request.setAttribute("errorMessage", "Invalid email address format.");     request.getRequestDispatcher("/WEB-INF/views/auth/register.jsp").forward(request, response);     return; } if (!ValidationUtil.isValidPassword(password)) {     request.setAttribute("errorMessage", "Password must be >= 8 chars with upper, digit & symbol.");     request.getRequestDispatcher("/WEB-INF/views/auth/register.jsp").forward(request, response);     return; } if (userDAO.findByEmail(email) != null) {     request.setAttribute("errorMessage", "An account with this email already exists.");     request.getRequestDispatcher("/WEB-INF/views/auth/register.jsp").forward(request, response);     return; }
+
+--- Table 23 (Rows: 1, Cols: 1) ---
+  Row 0: // PBKDF2 password derivation and user insertion String saltHash = PasswordUtil.hashPassword(password); UserBean user = new UserBean(); user.setFullName(fullName); user.setEmail(email); user.setPasswordHash(saltHash); user.setRole("STUDENT"); user.setPhone(phone);  boolean success = userDAO.create(user); if (success) {     response.sendRedirect(request.getContextPath() + "/login?msg=registered"); }
+
+--- Table 24 (Rows: 1, Cols: 1) ---
+  Row 0: // Credential verification and session fixation defense in LoginServlet.java UserBean user = userDAO.findByEmail(email); if (user != null && user.isActive() &&      PasswordUtil.verifyPassword(password, user.getPasswordHash())) {          // Invalidate old session to prevent session fixation     HttpSession oldSession = request.getSession(false);     if (oldSession != null) oldSession.invalidate();          // Provision fresh session     HttpSession session = request.getSession(true);     session.setAttribute("user", user);     session.setAttribute("userId", user.getUserId());     session.setAttribute("role", user.getRole());     session.setAttribute("csrfToken", SecurityUtil.generateCsrfToken());          if ("ADMIN".equals(user.getRole())) {         response.sendRedirect(request.getContextPath() + "/admin/dashboard");     } else if ("STAFF".equals(user.getRole())) {         response.sendRedirect(request.getContextPath() + "/staff/dashboard");     } else {         response.sendRedirect(request.getContextPath() + "/student/dashboard");     } } else {     request.setAttribute("errorMessage", "Invalid email or password.");     request.getRequestDispatcher("/WEB-INF/views/auth/login.jsp").forward(request, response); }
+
+--- Table 25 (Rows: 1, Cols: 1) ---
+  Row 0: // LogoutServlet.java: Session destruction HttpSession session = request.getSession(false); if (session != null) {     session.invalidate(); } response.sendRedirect(request.getContextPath() + "/login?msg=logged_out");
+
+--- Table 26 (Rows: 1, Cols: 1) ---
+  Row 0: package com.campusflow.service;  public class PriorityService {     public static String calculatePriority(String urgency, String impact,                                             String location, String description) {         // Auto-escalate critical hazard keywords         String lowerDesc = description.toLowerCase();         if (lowerDesc.contains("fire") || lowerDesc.contains("burst") ||              lowerDesc.contains("spark") || lowerDesc.contains("flood")) {             return "CRITICAL";         }         int urgencyScore = switch (urgency) {             case "EMERGENCY" -> 4;             case "HIGH" -> 3;             case "MEDIUM" -> 2;             default -> 1;         };         int impactScore = switch (impact) {             case "BUILDING_WIDE" -> 4;             case "FLOOR" -> 3;             case "ROOM" -> 2;             default -> 1;         };         int locationWeight = (location.toLowerCase().contains("server") ||                                location.toLowerCase().contains("substation")) ? 3 : 1;                  int totalScore = (urgencyScore * 3) + (impactScore * 2) + locationWeight;         if (totalScore >= 18) return "CRITICAL";         if (totalScore >= 14) return "HIGH";         if (totalScore >= 9)  return "MEDIUM";         return "LOW";     } }
+
+--- Table 27 (Rows: 1, Cols: 1) ---
+  Row 0: // Request insertion with unique tracking code in RequestDAO.java String trackingNo = TrackingCodeUtil.generate(); String sql = "INSERT INTO requests (request_id, tracking_number, student_id, title, " +              "description, category, priority, status, location, urgency_level, impact_level) " +              "VALUES (seq_requests.NEXTVAL, ?, ?, ?, ?, ?, ?, 'SUBMITTED', ?, ?, ?)";  try (PreparedStatement ps = con.prepareStatement(sql)) {     ps.setString(1, trackingNo);     ps.setLong(2, req.getStudentId());     ps.setString(3, req.getTitle());     ps.setString(4, req.getDescription());     ps.setString(5, req.getCategory());     ps.setString(6, req.getPriority());     ps.setString(7, req.getLocation());     ps.setString(8, req.getUrgencyLevel());     ps.setString(9, req.getImpactLevel());     ps.executeUpdate(); }
+
+--- Table 28 (Rows: 1, Cols: 1) ---
+  Row 0: // Atomic status transition and history logging in WorkflowService.java public boolean transitionStatus(long requestId, String targetStatus,                                  long userId, String remarks) throws SQLException {     Connection con = DBConnection.getConnection();     try {         con.setAutoCommit(false);         RequestBean req = requestDAO.findById(requestId, con);         validateTransition(req.getStatus(), targetStatus);                  requestDAO.updateStatus(requestId, targetStatus, con);         requestHistoryDAO.create(requestId, req.getStatus(), targetStatus, userId, remarks, con);                  // Notify student of progress         notificationDAO.create(req.getStudentId(), requestId,              "Request Updated", "Status changed to " + targetStatus, con);                  con.commit();         return true;     } catch (Exception e) {         con.rollback();         throw e;     } finally {         con.close();     } }
+
+--- Table 29 (Rows: 1, Cols: 1) ---
+  Row 0: // High-performance Oracle ROWNUM nested pagination in RequestDAO.java String sql = "SELECT * FROM ( " +              "  SELECT a.*, ROWNUM rnum FROM ( " +              "    SELECT r.*, u.full_name as student_name, d.department_name " +              "    FROM requests r " +              "    JOIN users u ON r.student_id = u.user_id " +              "    LEFT JOIN departments d ON r.department_id = d.department_id " +              "    WHERE 1=1 " + filterConditions +              "    ORDER BY r.created_at DESC " +              "  ) a WHERE ROWNUM <= ? " +              ") WHERE rnum > ?"; ps.setInt(paramIndex++, page * pageSize); ps.setInt(paramIndex++, (page - 1) * pageSize);
+
+--- Table 30 (Rows: 1, Cols: 1) ---
+  Row 0: // Post-resolution feedback submission and ticket closure public boolean submitFeedback(FeedbackBean fb) throws SQLException {     Connection con = DBConnection.getConnection();     try {         con.setAutoCommit(false);         feedbackDAO.create(fb, con);         requestDAO.updateStatus(fb.getRequestId(), "CLOSED", con);         requestHistoryDAO.create(fb.getRequestId(), "RESOLVED", "CLOSED",                                  fb.getStudentId(), "Feedback submitted by student.", con);         con.commit();         return true;     } catch(Exception e) {         con.rollback();         throw e;     } finally {         con.close();     } }
+
+--- Table 31 (Rows: 10, Cols: 2) ---
+  Row 0: Security Risk | Mitigation Measure in CampusFlow
+  Row 1: Stolen / Leaked Passwords | Passwords hashed via PBKDF2WithHmacSHA256 (65,536 iterations, 16-byte random salt). Plaintext never stored.
+  Row 2: SQL Injection Attacks | 100% of queries use PreparedStatement with ? placeholders; parameter binding keeps SQL and user data strictly separated.
+  Row 3: Cross-Site Scripting (XSS) | User-supplied content is sanitized with SecurityUtil.escapeHtml() (&, <, >, ", ') before DOM rendering.
+  Row 4: Cross-Site Request Forgery (CSRF) | CsrfFilter enforces cryptographically secure 128-bit synchronizer tokens on all state-altering POST requests.
+  Row 5: Session Fixation | Existing session is explicitly invalidated at login and a fresh session ID is issued by Tomcat.
+  Row 6: Privilege Escalation | AuthenticationFilter enforces role restrictions on /student/*, /staff/*, and /admin/* returning HTTP 403 Forbidden.
+  Row 7: Tampering with Others' Tickets | DAO queries filter by student_id or assigned_staff_id, verifying record ownership on the server.
+  Row 8: Information Leakage | Generic error messages on authentication failure; stack traces suppressed via web.xml custom error pages (403, 404, 500).
+  Row 9: Duplicate Form Submissions | Post/Redirect/Get (PRG) pattern redirects state changes to GET routes with session flash messages.
+
+--- Table 32 (Rows: 1, Cols: 1) ---
+  Row 0: [ SCREENSHOT PLACEHOLDER ] Paste your application screenshot here (Figure 5.1: Login page) Note: Capture from http://localhost:8089/campusflow/login
+
+--- Table 33 (Rows: 1, Cols: 1) ---
+  Row 0: [ SCREENSHOT PLACEHOLDER ] Paste your application screenshot here (Figure 5.2: Student Dashboard and Request Submission) Note: Capture from http://localhost:8089/campusflow/student/requests/create
+
+--- Table 34 (Rows: 1, Cols: 1) ---
+  Row 0: [ SCREENSHOT PLACEHOLDER ] Paste your application screenshot here (Figure 5.3: Request Details and Timeline Tracking) Note: Capture from http://localhost:8089/campusflow/student/requests/details?id=1
+
+--- Table 35 (Rows: 1, Cols: 1) ---
+  Row 0: [ SCREENSHOT PLACEHOLDER ] Paste your application screenshot here (Figure 5.4: Staff Dashboard and Task Action) Note: Capture from http://localhost:8089/campusflow/staff/dashboard
+
+--- Table 36 (Rows: 1, Cols: 1) ---
+  Row 0: [ SCREENSHOT PLACEHOLDER ] Paste your application screenshot here (Figure 5.5: Admin Dashboard and Request Assignment) Note: Capture from http://localhost:8089/campusflow/admin/requests
+
+--- Table 37 (Rows: 1, Cols: 1) ---
+  Row 0: [ SCREENSHOT PLACEHOLDER ] Paste your application screenshot here (Figure 5.6: Operational Analytics and Reports) Note: Capture from http://localhost:8089/campusflow/admin/analytics
+
+--- Table 38 (Rows: 1, Cols: 1) ---
+  Row 0: [ SCREENSHOT PLACEHOLDER ] Paste your application screenshot here (Figure 5.7: USERS table with PBKDF2 salted hashes in SQL*Plus) Note: SQL: SELECT user_id, full_name, email, role, is_active FROM users;
+
+--- Table 39 (Rows: 1, Cols: 1) ---
+  Row 0: [ SCREENSHOT PLACEHOLDER ] Paste your application screenshot here (Figure 5.8: DEPARTMENTS table in SQL*Plus) Note: SQL: SELECT department_id, code, department_name FROM departments;
+
+--- Table 40 (Rows: 1, Cols: 1) ---
+  Row 0: [ SCREENSHOT PLACEHOLDER ] Paste your application screenshot here (Figure 5.9: REQUESTS table with tracking codes and priorities) Note: SQL: SELECT request_id, tracking_number, title, priority, status FROM requests;
+
+--- Table 41 (Rows: 1, Cols: 1) ---
+  Row 0: [ SCREENSHOT PLACEHOLDER ] Paste your application screenshot here (Figure 5.10: REQUEST_HISTORY audit trail table) Note: SQL: SELECT history_id, request_id, old_status, new_status, remarks FROM request_history;
+
+--- Table 42 (Rows: 1, Cols: 1) ---
+  Row 0: [ SCREENSHOT PLACEHOLDER ] Paste your application screenshot here (Figure 5.11: FEEDBACK table with 5-star student ratings) Note: SQL: SELECT feedback_id, request_id, rating, comments FROM feedback;
+
+--- Table 43 (Rows: 17, Cols: 4) ---
+  Row 0: No. | Test Case | Action / Input | Expected Result
+  Row 1: 1 | Valid Student Registration | Fill valid details (email, pass, phone) | User inserted in USERS with PBKDF2 hash; redirect to login with success.
+  Row 2: 2 | Duplicate Email Rejection | Register with existing email | Rejected with error: 'An account with this email already exists.'
+  Row 3: 3 | Weak Password Validation | Password without uppercase or digit | Rejected with password complexity policy error message.
+  Row 4: 4 | Valid Credential Login | Correct email and password | Session established; redirects to role dashboard (Student, Staff, Admin).
+  Row 5: 5 | Invalid Password Login | Correct email, wrong password | Rejected with generic 'Invalid email or password' message.
+  Row 6: 6 | Unauthenticated Route Guard | Access /student/dashboard directly | AuthenticationFilter intercepts; HTTP 302 redirect to /login.
+  Row 7: 7 | Cross-Role Security Guard | Student session accesses /admin/dashboard | AuthenticationFilter rejects with HTTP 403 Forbidden.
+  Row 8: 8 | Service Request Creation | Student submits issue with location & urgency | Tracking ID CF-2026-xxxxx generated, priority calculated, saved to DB.
+  Row 9: 9 | Priority Engine Auto-Escalation | Description contains 'water pipe burst' | PriorityService auto-escalates priority score to CRITICAL.
+  Row 10: 10 | Pre-Assignment Edit | Student edits SUBMITTED request | Request updated in Oracle; changes permitted before assignment.
+  Row 11: 11 | Illegal State Transition | Attempt jump from SUBMITTED to RESOLVED | WorkflowService rejects with IllegalArgumentException; state intact.
+  Row 12: 12 | Admin Staff Assignment | Admin selects department and staff | Request status updated to ASSIGNED; history logged, staff notified.
+  Row 13: 13 | Staff Work Completion | Staff inputs resolution remarks and resolves | Status set to RESOLVED, resolved_at recorded, student invited for feedback.
+  Row 14: 14 | Post-Resolution Feedback | Student submits 5-star rating and comment | Saved to FEEDBACK table; request status automatically advances to CLOSED.
+  Row 15: 15 | Anti-CSRF Defense | POST request without csrfToken parameter | CsrfFilter rejects request with HTTP 403 Forbidden.
+  Row 16: 16 | Session Destruction on Logout | User clicks Logout | Session invalidated; subsequent navigation redirects to /login.
